@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-01T15:31:02+02:00</updated><id>http://localhost:4000/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Agile en Seine 2018</title><link href="http://localhost:4000/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>http://localhost:4000/aes2018</id><content type="html" xml:base="http://localhost:4000/aes2018">&lt;p&gt;Agile En Seine 2018 c’était mardi 25 septembre dernier !&lt;br /&gt;&lt;br /&gt;550 participants et 28 interventions sur le thème de l’agilité en entreprise, ce qui en fait une des conférences majeures de l’écosystème Agile Français.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-01T19:12:05+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/aes2018</id><content type="html" xml:base="https://blog.roti.express/aes2018">&lt;p&gt;Agile En Seine 2018 c’était mardi 25 septembre dernier !&lt;br /&gt;&lt;br /&gt;550 participants et 28 interventions sur le thème de l’agilité en entreprise, ce qui en fait une des conférences majeures de l’écosystème Agile Français.&lt;/p&gt;
 
-&lt;h3 id=&quot;feedbacks-&quot;&gt;Feedbacks !&lt;/h3&gt;
+&lt;h3 id=&quot;feedbacks--en-temps-réel-svp&quot;&gt;Feedbacks ! (en temps réel svp)&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/aes_results1.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
 Plus de 430 Feedback ont été reçus, grâce à notre plateforme Roti.express, qui a permis de mesurer le taux de satisfaction des sessions animées.&lt;/p&gt;
+
+&lt;p&gt;Nous étions présent durant toute cette journée, et avons observé en temps réel les feedbacks arriver sur la plateforme. Dès la sortie des salles les speakers venaient nous trouver pour connaitre leur “score” en avant-première !&lt;/p&gt;
 
 &lt;p&gt;La note moyenne est de 4.12/5, avec une note exceptionnelle de 4.91 pour l’intervention très inspirante de Virginie Guyot.&lt;/p&gt;
 
@@ -19,16 +21,16 @@ Plus de 430 Feedback ont été reçus, grâce à notre plateforme Roti.express, 
     &lt;p&gt;Nous avons annoncé que cela aurait lieu dès la première session Keynote en expliquant rapidement les règles du jeu.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Pour répondre : pas d’application à télécharger, pas d’inscription fastidieuse (login/mot de passe).&lt;/p&gt;
+    &lt;p&gt;Pour répondre : pas d’application à télécharger, pas d’inscription fastidieuse (login/mot de passe). Je flashe, je répond, et c’est tout !&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Nous n’avons forcé personne à répondre ! Et nous avons été clairs : “ce n’est pas vos data qui nous intéressent mais bien votre feedback sur l’évènement”.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Nous avons expliqué que les résultats finaux seraient partagés avec tout le monde.&lt;/p&gt;
+    &lt;p&gt;Nous avons expliqué que les résultats finaux seraient partagés avec tout le monde. D’ailleurs nous étions déjà prêts avant même la fin de l’évènement !&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Une prise de feedback ROTI (en mode Agile) était très adaptée à cet évènement !
+    &lt;p&gt;Une prise de feedback avec la méthode ROTI (en mode Agile) était très adaptée à cet évènement !
 &lt;img src=&quot;/assets/images/aes_feedback0.jpg&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
@@ -49,7 +51,7 @@ Plus de 430 Feedback ont été reçus, grâce à notre plateforme Roti.express, 
 
 &lt;p&gt;Contactez nous directement par mail &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;survey@roti.express&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Events" /><summary type="html">Agile En Seine 2018 c’était mardi 25 septembre dernier !550 participants et 28 interventions sur le thème de l’agilité en entreprise, ce qui en fait une des conférences majeures de l’écosystème Agile Français.</summary></entry><entry><title type="html">Infographies, Visuels &amp;amp; Goodies</title><link href="http://localhost:4000/infographies" rel="alternate" type="text/html" title="Infographies, Visuels &amp; Goodies" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>http://localhost:4000/infographies</id><content type="html" xml:base="http://localhost:4000/infographies">&lt;p&gt;Afin de nous faire connaitre et de communiquer avec le grand public nous avons fait appel à Matthieu notre graphiste qui nous a concocté quelques visuels !&lt;/p&gt;
+&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Events" /><summary type="html">Agile En Seine 2018 c’était mardi 25 septembre dernier !550 participants et 28 interventions sur le thème de l’agilité en entreprise, ce qui en fait une des conférences majeures de l’écosystème Agile Français.</summary></entry><entry><title type="html">Infographies, Visuels &amp;amp; Goodies</title><link href="https://blog.roti.express/infographies" rel="alternate" type="text/html" title="Infographies, Visuels &amp; Goodies" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/infographies</id><content type="html" xml:base="https://blog.roti.express/infographies">&lt;p&gt;Afin de nous faire connaitre et de communiquer avec le grand public nous avons fait appel à Matthieu notre graphiste qui nous a concocté quelques visuels !&lt;/p&gt;
 
 &lt;h3 id=&quot;résumé-de-notre-activité-en-1-image&quot;&gt;Résumé de notre activité en 1 image&lt;/h3&gt;
 
@@ -88,7 +90,7 @@ Ces visuels seront utilisés pour les réseaux sociaux et pour les campagnes de 
   &lt;li&gt;des peluches toute douces en forme de roti !
 &lt;img src=&quot;/assets/images/goodies.png&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
 (à suivre !)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Antoine Durand</name></author><category term="Marketing" /><summary type="html">Afin de nous faire connaitre et de communiquer avec le grand public nous avons fait appel à Matthieu notre graphiste qui nous a concocté quelques visuels !</summary></entry><entry><title type="html">Le collectif HappyTech</title><link href="http://localhost:4000/Happytech" rel="alternate" type="text/html" title="Le collectif HappyTech" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>http://localhost:4000/Happytech</id><content type="html" xml:base="http://localhost:4000/Happytech">&lt;p&gt;Depuis sa création en 2017 nous sommes membres du collectif HappyTech, revenons sur l’histoire de ce collectif.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Antoine Durand</name></author><category term="Marketing" /><summary type="html">Afin de nous faire connaitre et de communiquer avec le grand public nous avons fait appel à Matthieu notre graphiste qui nous a concocté quelques visuels !</summary></entry><entry><title type="html">Le collectif HappyTech</title><link href="https://blog.roti.express/Happytech" rel="alternate" type="text/html" title="Le collectif HappyTech" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/Happytech</id><content type="html" xml:base="https://blog.roti.express/Happytech">&lt;p&gt;Depuis sa création en 2017 nous sommes membres du collectif HappyTech, revenons sur l’histoire de ce collectif.&lt;/p&gt;
 
 &lt;h3 id=&quot;happytech-cest-quoi-&quot;&gt;HappyTech c’est quoi ?&lt;/h3&gt;
 
@@ -137,7 +139,7 @@ Le collectif est également présent lors des évenènements importants comme Vi
 
 &lt;p&gt;Sur son site web Happytech propose aussi un &lt;a href=&quot;https://france.happytech.life/membres/&quot;&gt;catalogue&lt;/a&gt; ou sont présentées les solutions des adhérents.&lt;/p&gt;
 
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Partners &amp; Friends" /><summary type="html">Depuis sa création en 2017 nous sommes membres du collectif HappyTech, revenons sur l’histoire de ce collectif.</summary></entry><entry><title type="html">Rater son sondage en 5 étapes</title><link href="http://localhost:4000/fail_survey" rel="alternate" type="text/html" title="Rater son sondage en 5 étapes" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>http://localhost:4000/fail_survey</id><content type="html" xml:base="http://localhost:4000/fail_survey">&lt;h3 id=&quot;1-commencez-par-mentir-aux-répondants&quot;&gt;1. Commencez par mentir aux répondants&lt;/h3&gt;
+&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Partners &amp; Friends" /><summary type="html">Depuis sa création en 2017 nous sommes membres du collectif HappyTech, revenons sur l’histoire de ce collectif.</summary></entry><entry><title type="html">Rater son sondage en 5 étapes</title><link href="https://blog.roti.express/fail_survey" rel="alternate" type="text/html" title="Rater son sondage en 5 étapes" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/fail_survey</id><content type="html" xml:base="https://blog.roti.express/fail_survey">&lt;h3 id=&quot;1-commencez-par-mentir-aux-répondants&quot;&gt;1. Commencez par mentir aux répondants&lt;/h3&gt;
 
 &lt;p&gt;Commencez donc par une phrase du type “Ce sondage ne vous prendra pas plus de 3 minutes” alors que vous savez pertinemment que c’est faux, mais comme vous voulez avoir un maximum de réponses vous pensez que c’est une bonne idée.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -188,7 +190,7 @@ Le sondage ROTI est composé de &lt;strong&gt;2 questions&lt;/strong&gt;, toujou
 
 &lt;p&gt;&lt;a href=&quot;https://roti.express&quot;&gt;&lt;img src=&quot;/assets/images/regles.png&quot; alt=&quot;Regles ROTI&quot; width=&quot;85%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Epic Fail" /><summary type="html">1. Commencez par mentir aux répondants</summary></entry><entry><title type="html">Feedback</title><link href="http://localhost:4000/feedback" rel="alternate" type="text/html" title="Feedback" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>http://localhost:4000/feedback</id><content type="html" xml:base="http://localhost:4000/feedback">&lt;h3 id=&quot;fidbak&quot;&gt;\fid.bak\&lt;/h3&gt;
+&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Epic Fail" /><summary type="html">1. Commencez par mentir aux répondants</summary></entry><entry><title type="html">Feedback</title><link href="https://blog.roti.express/feedback" rel="alternate" type="text/html" title="Feedback" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/feedback</id><content type="html" xml:base="https://blog.roti.express/feedback">&lt;h3 id=&quot;fidbak&quot;&gt;\fid.bak\&lt;/h3&gt;
 
 &lt;p&gt;Revenons quelques instants sur le concept de feedback.&lt;/p&gt;
 
@@ -238,7 +240,7 @@ La bonne nouvelle c’est que la plupart des gens souhaitent s’améliorer et p
 
 &lt;p&gt;L’objectif pour l’équipe est d’améliorer son organisation afin d’être plus efficace, la rétrospective est donc un élément clef du principe d’amélioration continue et permet à l’équipe de devenir auto-apprenante.&lt;/p&gt;
 
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="5 minutes on" /><summary type="html">\fid.bak\</summary></entry><entry><title type="html">Un ROTI en version digitale</title><link href="http://localhost:4000/digital-roti" rel="alternate" type="text/html" title="Un ROTI en version digitale" /><published>2018-09-04T18:00:00+02:00</published><updated>2018-09-04T18:00:00+02:00</updated><id>http://localhost:4000/digital-roti</id><content type="html" xml:base="http://localhost:4000/digital-roti">&lt;h2 id=&quot;digitaliser-la-pratique&quot;&gt;Digitaliser la pratique&lt;/h2&gt;
+&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="5 minutes on" /><summary type="html">\fid.bak\</summary></entry><entry><title type="html">Un ROTI en version digitale</title><link href="https://blog.roti.express/digital-roti" rel="alternate" type="text/html" title="Un ROTI en version digitale" /><published>2018-09-04T18:00:00+02:00</published><updated>2018-09-04T18:00:00+02:00</updated><id>https://blog.roti.express/digital-roti</id><content type="html" xml:base="https://blog.roti.express/digital-roti">&lt;h2 id=&quot;digitaliser-la-pratique&quot;&gt;Digitaliser la pratique&lt;/h2&gt;
 
 &lt;p&gt;Septembre 2017, nous nous lançons dans le codage de notre application, l’objectif est annoncé : on va faire du ROTI en version digitale !&lt;/p&gt;
 
@@ -280,7 +282,7 @@ La bonne nouvelle c’est que la plupart des gens souhaitent s’améliorer et p
 
 &lt;p&gt;On réalise aussi à ce moment là que nous collectons de la donnée, ce qui nous ouvre la voie sur l’exploration des possibilités analytiques de ces données.. Traquer les sondages des différentes équipes, mesurer la progression dans le temps, offrir une vision globale à l’échelle de l’entreprise !.. Tout est désormais possible !&lt;/p&gt;
 
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">Digitaliser la pratique</summary></entry><entry><title type="html">La pire réunion de ma vie</title><link href="http://localhost:4000/origins" rel="alternate" type="text/html" title="La pire réunion de ma vie" /><published>2018-09-01T18:00:00+02:00</published><updated>2018-09-01T18:00:00+02:00</updated><id>http://localhost:4000/origins</id><content type="html" xml:base="http://localhost:4000/origins">&lt;h2 id=&quot;le-jour-ou-tout-a-commencé&quot;&gt;Le jour ou tout a commencé…&lt;/h2&gt;
+&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">Digitaliser la pratique</summary></entry><entry><title type="html">La pire réunion de ma vie</title><link href="https://blog.roti.express/origins" rel="alternate" type="text/html" title="La pire réunion de ma vie" /><published>2018-09-01T18:00:00+02:00</published><updated>2018-09-01T18:00:00+02:00</updated><id>https://blog.roti.express/origins</id><content type="html" xml:base="https://blog.roti.express/origins">&lt;h2 id=&quot;le-jour-ou-tout-a-commencé&quot;&gt;Le jour ou tout a commencé…&lt;/h2&gt;
 
 &lt;p&gt;Eté 2017, je suis consultant en mission chez un client qui est en pleine transformation digitale, projet étalé sur 2 ans, critique et même stratégique pour l’entreprise.&lt;/p&gt;
 
@@ -330,7 +332,7 @@ Après avoir passé en revu ce que propose Google et les divers outils de créat
 
 &lt;p&gt;Prototype, MVP, architecture cloud, tests grandeurs nature, scalabilité, accélération à la Station F !… Mais tout ça c’est une autre histoire, rendez-vous au prochain article !&lt;/p&gt;
 
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">Le jour ou tout a commencé…</summary></entry><entry><title type="html">Ouverture du Blog Agile de Roti.express</title><link href="http://localhost:4000/welcome" rel="alternate" type="text/html" title="Ouverture du Blog Agile de Roti.express" /><published>2018-09-01T18:00:00+02:00</published><updated>2018-09-01T18:00:00+02:00</updated><id>http://localhost:4000/welcome</id><content type="html" xml:base="http://localhost:4000/welcome">&lt;p&gt;Bonjour, et bienvenue sur notre blog.&lt;/p&gt;
+&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">Le jour ou tout a commencé…</summary></entry><entry><title type="html">Ouverture du Blog Agile de Roti.express</title><link href="https://blog.roti.express/welcome" rel="alternate" type="text/html" title="Ouverture du Blog Agile de Roti.express" /><published>2018-09-01T18:00:00+02:00</published><updated>2018-09-01T18:00:00+02:00</updated><id>https://blog.roti.express/welcome</id><content type="html" xml:base="https://blog.roti.express/welcome">&lt;p&gt;Bonjour, et bienvenue sur notre blog.&lt;/p&gt;
 
 &lt;p&gt;Ça fait plaisir de vous savoir ici ! En septembre 2017, soit il y a un an, nous dessinions les premiers écrans et écrivions les premières lignes de codes de notre application Roti.express.&lt;/p&gt;
 
