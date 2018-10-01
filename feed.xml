@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-01T14:30:27+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/aes2018</id><content type="html" xml:base="https://blog.roti.express/aes2018">&lt;p&gt;Agile En Seine 2018 c’était mardi 25 septembre dernier !&lt;br /&gt;&lt;br /&gt;550 participants et 28 interventions sur le thème de l’agilité en entreprise, ce qui en fait une des conférences majeures de l’écosystème Agile Français.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-01T14:53:52+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/aes2018</id><content type="html" xml:base="https://blog.roti.express/aes2018">&lt;p&gt;Agile En Seine 2018 c’était mardi 25 septembre dernier !&lt;br /&gt;&lt;br /&gt;550 participants et 28 interventions sur le thème de l’agilité en entreprise, ce qui en fait une des conférences majeures de l’écosystème Agile Français.&lt;/p&gt;
 
 &lt;h3 id=&quot;feedbacks-&quot;&gt;Feedbacks !&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;assets/images/aes_results.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/aes_results.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
 Plus de 430 Feedback ont été reçus, grâce à notre plateforme Roti.express, qui a permis de mesurer le taux de satisfaction des sessions animées.&lt;/p&gt;
 
 &lt;p&gt;La note moyenne est de 4.12/5, avec une note exceptionnelle de 4.91 pour l’intervention très inspirante de Virginie Guyot.&lt;/p&gt;
@@ -29,19 +29,19 @@ Plus de 430 Feedback ont été reçus, grâce à notre plateforme Roti.express, 
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Une prise de feedback ROTI (en mode Agile) était très adaptée à cet évènement !
-&lt;img src=&quot;assets/images/aes_feedback0.jpg&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/aes_feedback0.jpg&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h3 id=&quot;capter-le-feedback-lors-dun-évènement-&quot;&gt;Capter le feedback lors d’un évènement ?&lt;/h3&gt;
 
 &lt;p&gt;Nous avons demandé aux speakers de bien vouloir afficher un QR-Code géant sur le dernier slide de leur présentation Powerpoint
-&lt;img src=&quot;assets/images/aes_feedback1.jpg&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/aes_feedback1.jpg&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Et pour ceux qui n’auraient pas eu le temps de flasher le code nous avons confectionné des affiches au format A3 pour chacune des sessions que nous avons collé sur les portes de chaque salle de conférence.&lt;/p&gt;
 
 &lt;p&gt;Nous avons installé un “Mur de QR-Code” dans le couloir qui relie les différentes salles !
-&lt;img src=&quot;assets/images/aes_wall.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/aes_wall.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;vous-souhaitez-faire-appel-à-nous-pour-vos-évènements-&quot;&gt;Vous souhaitez faire appel à nous pour vos évènements ?&lt;/h3&gt;
 
@@ -56,7 +56,7 @@ Plus de 430 Feedback ont été reçus, grâce à notre plateforme Roti.express, 
 &lt;p&gt;Nous voulions une image sympa qui résume notre activité en 6 points à la manière d’un &lt;a href=&quot;https://fr.wikipedia.org/wiki/Carte_heuristique&quot;&gt; mind-map &lt;/a&gt;(Carte heuristique en français)&lt;/p&gt;
 
 &lt;p&gt;L’exercice est bien plus difficile qu’il n’y parait, car contrairement à ce qu’on pourrait penser moins on a de mots et plus c’est dur d’aller à l’essentiel.
-&lt;img src=&quot;assets/images/Infographie_v2_fr.jpg&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;/assets/images/Infographie_v2_fr.jpg&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
 Voilà le résultat ! Idéal pour envoyer sur les réseaux sociaux ou pour imprimer sur un flyer !&lt;/p&gt;
 
 &lt;h3 id=&quot;des-visuels-plus-spécifiques&quot;&gt;Des visuels plus spécifiques&lt;/h3&gt;
@@ -64,7 +64,7 @@ Voilà le résultat ! Idéal pour envoyer sur les réseaux sociaux ou pour impri
 &lt;p&gt;Nous voulions aussi des visuels avec des messages forts pour marketer notre solution sur des thématiques bien précises.&lt;/p&gt;
 
 &lt;p&gt;Nous avons pris l’option de partir sur un visuel “rétro” avec des typos sympa pour qu’il y ait une vraie cohérence dans les messages.
-&lt;img src=&quot;assets/images/marketing.png&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;/assets/images/marketing.png&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
 Ces visuels seront utilisés pour les réseaux sociaux et pour les campagnes de publicité que nous prévoyons de lancer dès septembre 2018. Peut-être les avez-vous déjà vu au détour d’un site internet ?&lt;/p&gt;
 
 &lt;p&gt;On adore le résultat ! à tel point qu’on en a aussi fait des cartes de visites à distribuer dans les salons.&lt;/p&gt;
@@ -75,7 +75,7 @@ Ces visuels seront utilisés pour les réseaux sociaux et pour les campagnes de 
 
 &lt;p&gt;Dans la pratique c’est plutôt l’infographie verticale que l’on met sur son stand quand on participe à un évènement ou un salon.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/kakemono.png&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/kakemono.png&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;autres-goodies&quot;&gt;Autres Goodies&lt;/h3&gt;
 
@@ -86,7 +86,7 @@ Ces visuels seront utilisés pour les réseaux sociaux et pour les campagnes de 
   &lt;li&gt;des pin’s pour accrocher à sa veste&lt;/li&gt;
   &lt;li&gt;des mugs pour boire son café&lt;/li&gt;
   &lt;li&gt;des peluches toute douces en forme de roti !
-&lt;img src=&quot;assets/images/goodies.png&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;/assets/images/goodies.png&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
 (à suivre !)&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Antoine Durand</name></author><category term="Marketing" /><summary type="html">Afin de nous faire connaitre et de communiquer avec le grand public nous avons fait appel à Matthieu notre graphiste qui nous a concocté quelques visuels !</summary></entry><entry><title type="html">Le collectif HappyTech</title><link href="https://blog.roti.express/Happytech" rel="alternate" type="text/html" title="Le collectif HappyTech" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/Happytech</id><content type="html" xml:base="https://blog.roti.express/Happytech">&lt;p&gt;Depuis sa création en 2017 nous sommes membres du collectif HappyTech, revenons sur l’histoire de ce collectif.&lt;/p&gt;
 
@@ -102,7 +102,7 @@ Ces visuels seront utilisés pour les réseaux sociaux et pour les campagnes de 
 
 &lt;p&gt;Aujourd’hui HappyTech c’est 34 startups membres, plus de 300 articles de presse, et côté staff 33 bénévoles et 1 permanent.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://france.happytech.life/&quot;&gt;&lt;img src=&quot;assets/images/happytech3.png&quot; alt=&quot;drawing&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://france.happytech.life/&quot;&gt;&lt;img src=&quot;/assets/images/happytech3.png&quot; alt=&quot;drawing&quot; width=&quot;50%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;L’idée a fait son chemin et plusieurs branches de la HappyTech ont ouvert en Europe, en Amérique du Nord et même en Australie ! Les nouvelles entités sont fédérées par le Comité International de la Happy Tech&lt;/p&gt;
 
@@ -123,7 +123,7 @@ Ces visuels seront utilisés pour les réseaux sociaux et pour les campagnes de 
 &lt;/blockquote&gt;
 
 &lt;p&gt;Au-delà d’une simple plateforme de feedback nous aimons à croire que nous aidons à faire changer les mentalités en entreprise.
-&lt;img src=&quot;assets/images/plant.png&quot; alt=&quot;drawing&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/plant.png&quot; alt=&quot;drawing&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;et-concrêtement-que-se-passe-t-il-chez-happytech-&quot;&gt;Et concrêtement que se passe-t-il chez HappyTech ?&lt;/h3&gt;
 
@@ -132,7 +132,7 @@ Ces visuels seront utilisés pour les réseaux sociaux et pour les campagnes de 
 &lt;p&gt;Cela permet aux startups de gagner en visibilité, par exemple en participant aux webinars ou aux vidéos #MondayMotivation relayées sur les &lt;a href=&quot;https://www.linkedin.com/company/happytech/&quot;&gt;réseaux sociaux&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;La HappyTech organise aussi régulièrement des évènements dans de grandes entreprises auxquels les startups membres sont invitées, c’est l’occasion d’aller pitcher en comité restreint devant une entreprise qui a présélectionné les startups qu’elle souhaite rencontrer.
-&lt;img src=&quot;assets/images/happytech4.png&quot; alt=&quot;drawing&quot; width=&quot;100%&quot; /&gt;
+&lt;img src=&quot;/assets/images/happytech4.png&quot; alt=&quot;drawing&quot; width=&quot;100%&quot; /&gt;
 Le collectif est également présent lors des évenènements importants comme VivaTech, Le Salon Le Point ou les Trophées du Bien-être, bref on les voit un peu partout !&lt;/p&gt;
 
 &lt;p&gt;Sur son site web Happytech propose aussi un &lt;a href=&quot;https://france.happytech.life/membres/&quot;&gt;catalogue&lt;/a&gt; ou sont présentées les solutions des adhérents.&lt;/p&gt;
@@ -172,7 +172,7 @@ Le collectif est également présent lors des évenènements importants comme Vi
   &lt;p&gt;Conséquence : votre sondage devient un défouloir, il n’y a aucunes informations intéressantes à en tirer, aucunes pistes d’amélioration et seulement le mécontentement de ceux que vous forcez à répondre.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/quoi.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/quoi.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;elle-est-simple-et-diablement-efficace-&quot;&gt;Elle est simple, et diablement efficace !&lt;/h3&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -186,7 +186,7 @@ Le sondage ROTI est composé de &lt;strong&gt;2 questions&lt;/strong&gt;, toujou
 
 &lt;p&gt;Nous véhiculons une culture du &lt;strong&gt;feedback constructif&lt;/strong&gt; qui est l’essence même de notre produit.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://roti.express&quot;&gt;&lt;img src=&quot;assets/images/regles.png&quot; alt=&quot;Regles ROTI&quot; width=&quot;85%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://roti.express&quot;&gt;&lt;img src=&quot;/assets/images/regles.png&quot; alt=&quot;Regles ROTI&quot; width=&quot;85%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Epic Fail" /><summary type="html">1. Commencez par mentir aux répondants</summary></entry><entry><title type="html">Feedback</title><link href="https://blog.roti.express/feedback" rel="alternate" type="text/html" title="Feedback" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/feedback</id><content type="html" xml:base="https://blog.roti.express/feedback">&lt;h3 id=&quot;fidbak&quot;&gt;\fid.bak\&lt;/h3&gt;
 
@@ -206,7 +206,7 @@ Le sondage ROTI est composé de &lt;strong&gt;2 questions&lt;/strong&gt;, toujou
 &lt;p&gt;Demander du feedback c’est s’intéresser au regard de l’autre et bénéficier de nouveaux points de vue, et ce qui nous intéresse là c’est la critique constructive car elle permet de progresser, de s’améliorer et de grandir.&lt;/p&gt;
 
 &lt;p&gt;Chaque être humain est différent et va avoir sa perception et son propre feedback, si on a tendance à en récolter un maximum nous obtiendrons un avis objectif.
-&lt;img src=&quot;assets/images/team-feecback.jpg&quot; alt=&quot;drawing&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/team-feecback.jpg&quot; alt=&quot;drawing&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;partager-son-feedback-une-histoire-de-bienveillance-&quot;&gt;Partager son feedback, une histoire de bienveillance ?&lt;/h3&gt;
 
 &lt;p&gt;Le feedback c’est quelque chose que je peux choisir de donner ou de garder pour moi.&lt;/p&gt;
@@ -223,7 +223,7 @@ La bonne nouvelle c’est que la plupart des gens souhaitent s’améliorer et p
 &lt;p&gt;Il existe cependant des exceptions, des personnes un peu imbus de leur propre personne ? des managers tyranniques ? qui pourraient me dire “je sais ce que je fais et je n’ai pas de conseil à recevoir de toi !” et bien c’est dommage car je voulais vous dire que vous aviez un bout de salade entre les dents..&lt;/p&gt;
 
 &lt;p&gt;Dans son livre &lt;a href=&quot;https://www.amazon.fr/Mindset-How-Fulfil-Your-Potential/dp/1780332009&quot;&gt;Mindset&lt;/a&gt;, que je vous recommande, Carol Dweck explique en détail la différence entre un &lt;em&gt;état d’esprit fixe (fixed mindset)&lt;/em&gt; et un &lt;em&gt;état d’esprit de développement (growth mindset)&lt;/em&gt;
-&lt;img src=&quot;assets/images/growth.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/growth.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;rétrospective-scrum&quot;&gt;Rétrospective SCRUM&lt;/h3&gt;
 &lt;p&gt;Regardons de plus près ce que propose SCRUM et en particulier le rituel de Rétrospective, quel est le but d’une rétro ?&lt;/p&gt;
@@ -253,26 +253,26 @@ La bonne nouvelle c’est que la plupart des gens souhaitent s’améliorer et p
 &lt;/blockquote&gt;
 
 &lt;p&gt;Après l’intervention, chaque participant attribue une note sur une échelle de 1 à 5 à main levé
-&lt;img src=&quot;assets/images/hands.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/hands.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Et, en 30 secondes, explique sa notation par un commentaire utile et bienveillant à l’attention de l’animateur.
-&lt;img src=&quot;assets/images/feedback1.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/feedback1.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;digitalisons&quot;&gt;Digitalisons&lt;/h3&gt;
 
 &lt;p&gt;Commençons par le sondage à main levé ! Afin de permettre aux participants d’évaluer le temps qu’ils viennent de passer en réunion nous allons leur proposer de donner un score avec des étoiles :
-&lt;img src=&quot;assets/images/scoring.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/scoring.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Et pour le commentaire de moins de 30 secondes ? C’est assez simple aussi, on part sur un champ texte qu’on limite volontairement à 1000 caractères car on ne souhaite pas que le participant nous raconte sa vie, juste des pistes d’amélioration pour mieux faire la prochaine fois!
-&lt;img src=&quot;assets/images/commentaire1.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/commentaire1.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;ajoutons-de-la-valeur&quot;&gt;Ajoutons de la valeur&lt;/h3&gt;
 
 &lt;p&gt;Le rituel ROTI est sensé durer 5 minutes, et en pratique il est compliqué pour l’animateur de relever les évaluations et de noter les commentaires, alors pour nous c’est simple comme bonjour !
-&lt;img src=&quot;assets/images/results.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/results.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Et puis on peut aussi regrouper tout ça sur une belle page qui fait la synthèse des commentaires laissés !
-&lt;img src=&quot;assets/images/commentaires2.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/images/commentaires2.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;une-idée-en-entrainant-une-autre&quot;&gt;Une idée en entrainant une autre…&lt;/h3&gt;
 
