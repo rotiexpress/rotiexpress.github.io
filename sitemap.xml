@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://blog.roti.express/aes2018EN</loc>
+<lastmod>2000-09-05T18:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>https://blog.roti.express/welcome</loc>
 <lastmod>2018-09-01T18:00:00+02:00</lastmod>
 </url>
@@ -39,6 +43,9 @@
 <loc>https://blog.roti.express/about/</loc>
 </url>
 <url>
+<loc>https://blog.roti.express/tag/events/</loc>
+</url>
+<url>
 <loc>https://blog.roti.express/tag/hello-world-!/</loc>
 </url>
 <url>
@@ -55,9 +62,6 @@
 </url>
 <url>
 <loc>https://blog.roti.express/tag/marketing/</loc>
-</url>
-<url>
-<loc>https://blog.roti.express/tag/events/</loc>
 </url>
 <url>
 <loc>https://blog.roti.express/author/guillaume/</loc>
