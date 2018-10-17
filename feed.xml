@@ -1,4 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-03T18:59:24+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/aes2018</id><content type="html" xml:base="https://blog.roti.express/aes2018">&lt;p&gt;Agile En Seine 2018 c’était mardi 25 septembre dernier !&lt;br /&gt;&lt;br /&gt;550 participants et 28 interventions sur le thème de l’agilité en entreprise, ce qui en fait une des conférences majeures de l’écosystème Agile Français.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-17T21:13:52+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide : prise de feedback massive pour les évènements</title><link href="https://blog.roti.express/events" rel="alternate" type="text/html" title="Guide : prise de feedback massive pour les évènements" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/events</id><content type="html" xml:base="https://blog.roti.express/events">&lt;p&gt;Vous êtes organisateurs de Conférences, REX, TEDx ou autres évènements de ce type ? Vous le savez probablement mieux que nous la capture de feedback est un vrai casse-tête qui peut s’avérer très chronophage et très couteuse.&lt;/p&gt;
+
+&lt;h3 id=&quot;automatiser-la-prise-de-feedback&quot;&gt;Automatiser la prise de Feedback&lt;/h3&gt;
+
+&lt;p&gt;Notre plateforme &lt;a href=&quot;https://roti.express&quot;&gt;Roti.express&lt;/a&gt; permet de faire de la prise de feedback massive de manière simple, ludique, et diablement efficace !&lt;/p&gt;
+
+&lt;p&gt;Chez nous les étapes de capture de feedback, d’enregistrement des réponses et de restitution des résultats sont entièrement automatisés.&lt;/p&gt;
+
+&lt;p&gt;Et cerise sur le gâteau tout se passe en temps réel ! Vous pourrez donc observer en live pendant votre évènement les résulats arriver et l’analytique se remplir. Tout ce dont vous aurez besoin est d’un Smartphone, d’une Tablette ou d’un Ordinateur.&lt;/p&gt;
+
+&lt;p&gt;Voici un exemple de ce que nous avons fait pour &lt;a href=&quot;https://roti.express/feedback/aes2018&quot;&gt;Agile en Seine 2018&lt;/a&gt; (500 participants)
+&lt;a href=&quot;https://roti.express/feedback/aes2018&quot;&gt;&lt;img src=&quot;/assets/images/aes_background1.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;60%&quot; /&gt;&lt;/a&gt;
+Plutôt bluffant non ? On vous explique tout de suite comment ça fonctionne, suivez le guide !&lt;/p&gt;
+
+&lt;h3 id=&quot;etape-1--faire-une-demande-de-devis&quot;&gt;Etape 1 : Faire une demande de devis&lt;/h3&gt;
+
+&lt;p&gt;Un évènement de cet ampleur c’est plus compliqué qu’une réunion et nous allons avoir besoin de quelques informations :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nombre de participants&lt;/li&gt;
+&lt;li&gt;Date et Durée&lt;/li&gt;
+&lt;li&gt;Nombre de sessions&lt;/li&gt;
+&lt;li&gt;Besoin de nous sur site ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Pourquoi est-ce qu’on demande tout ça ?&lt;/b&gt; &lt;br /&gt;
+Afin d’assurer la qualité de la prise de feedback et recevoir des charges importantes sur la plateforme nous provisionnons des machines (serveurs, répartiteur de charge etc..) pour absorber les pics de connexions simultanées.
+&lt;br /&gt;Tout cela se prévoit en amont, et nécessite un peu de travail de notre part !
+&lt;img src=&quot;/assets/images/event_offering.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;30%&quot; /&gt;
+La demande de devis se fait par e-mail, vous pouvez nous écrire directement sur &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;survey@roti.express&lt;/a&gt; on vous recontacte au plus vite !&lt;/p&gt;
+
+&lt;h3 id=&quot;etape-2--votre-espace-de-travail&quot;&gt;Etape 2 : Votre espace de travail&lt;/h3&gt;
+
+&lt;p&gt;Une fois que nous nous serons mis d’accord nous créerons votre espace de travail, vous recevrez alors un lien pour rejoindre l’équipe.&lt;/p&gt;
+
+&lt;p&gt;C’est dans cet espace que vous pourrez administrer l’évènement :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Choisir un nom et personnaliser votre logo&lt;/li&gt;
+  &lt;li&gt;Créer et paramétrer les sondages&lt;/li&gt;
+  &lt;li&gt;Récupérer les QR-Codes et les liens de partage&lt;/li&gt;
+  &lt;li&gt;Visualiser l’ensemble des résultats détaillés&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Votre espace de travail est ouvert pour une durée de 30 jours : l’ouverture à lieu 15 jours avant l’évènement afin de le préparer et la fermeture 15 jours après.&lt;/p&gt;
+
+&lt;p&gt;Les données que vous avez collecté ne disparaissent pas de la plateforme, et les pages de partages restent accessibles (sauf indication contraire de votre part). Quand on dit “fermeture” de la plateforme c’est que les participants ne peuvent plus voter après un laps de temps de 15 jours.&lt;/p&gt;
+
+&lt;h3 id=&quot;etape-3--création-des-sondages&quot;&gt;Etape 3 : Création des sondages&lt;/h3&gt;
+
+&lt;p&gt;On entre ensuite dans le vif du sujet, il s’agit de créer pour chaque intervention le sondage associé en indiquant :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le nom de la session&lt;/li&gt;
+&lt;li&gt;Le nom du speaker&lt;/li&gt;
+&lt;li&gt;La date, l'heure et la durée&lt;/li&gt;
+&lt;li&gt;ainsi que quelques paramètres (visibilité, réponses en anonyme, etc..)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour être clair si votre évènement se compose de 30 sessions, il faudra créer 30 sondages ! Cela représente un peu de travail, nous conseillons de le faire quelques jours avant.&lt;/p&gt;
+
+&lt;h3 id=&quot;etape-4--qr-codes-et-liens-de-partage&quot;&gt;Etape 4 : QR-Codes et liens de partage&lt;/h3&gt;
+&lt;p&gt;Une fois les sondage crées vous allez récupérer deux choses&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le lien de partage (URL pour répondre au sondage)&lt;/li&gt;
+&lt;li&gt;Un QR-Code, qui pointe aussi sur ce lien de partage &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ces éléments vont vous permettre de recueillir du feedback automatiquement.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;QR-Codes&lt;/b&gt;&lt;br /&gt;
+La meilleure façon de prendre un feedback c’est “à chaud” juste à la fin de l’intervention. Il vous faudra donc demander à vos intervenants d’avoir l’amabilité d’intégrer un leur QR-Code sur le dernier slide de leur présentation PowerPoint.
+&lt;img src=&quot;/assets/images/hand.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;
+&lt;b&gt;Affiches&lt;/b&gt;&lt;br /&gt;
+Depuis votre espace de travail vous avez la possibilité de créer des affiches qui contiennent le nom de la session et le QR-Code, nous recommandons de placer ces affiches à la sortie des salles et de les imprimer au format A3.
+&lt;img src=&quot;/assets/images/aes_wall.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;etape-5--le-jour-j&quot;&gt;Etape 5 : Le jour J&lt;/h3&gt;
+
+&lt;p&gt;&lt;b&gt;Bien expliquer la démarche aux speakers&lt;/b&gt;&lt;br /&gt;
+De ce que nous avons pu observer le nombre de réponses obtenues est proportionnel à la durée de l’explication de l’intervenant. Donc si vous souhaitez maximiser le nombre de feedback recueillis il faudra :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Communiquer aux speakers sur le &quot;pourquoi&quot; vous souhaitez recueillir du feedback&lt;/li&gt;
+&lt;li&gt;Que le speaker prévoit un laps de temps (2-3 minutes) en fin de session dédié à la prise de feedback&lt;/li&gt;
+&lt;li&gt;Que le speaker explique à son tour pourquoi c'est important pour lui et pour les organisateurs da capturer le ressenti de l'audience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L’intervenant ne doit pas se sentir pris en otage par cette évaluation, c’est important qu’il comprenne que cette information lui est utile pour pouvoir apprécier la valeur de sa prestation vue depuis le public. Les commentaires laissés sont en général des pistes d’amélioration qui lui permettrons de faire mieux lors de sa prochaine présentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Suivi en temps réel&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Là c’est le meilleur moment !&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Notre plateforme offre du “véritable” temps réel, c’est à dire que vous pourrez observer en live les réponses arriver et les tableaux de synthèse des résultats se remplir.&lt;/p&gt;
+
+&lt;p&gt;Pour cela rien de plus simple, un lien à ouvrir depuis votre Smartphone, Tablette, Ordinateur ou même sur un écran de télévision&lt;/p&gt;
+
+&lt;h3 id=&quot;etape-6--le-jour-j1&quot;&gt;Etape 6 : le jour J+1&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Liens de sondage&lt;/b&gt;&lt;br /&gt;
+Pour récolter encore plus de feedbacks vous pouvez aussi après l’évènement communiquer par e-mail avec les participants en leur envoyant les liens vers les différents sondages.
+Cette possibilité est offerte pour les 15 jours suivants l’évènement.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Partage des résultats&lt;/b&gt;&lt;br /&gt;
+Quand on sonde les gens sur un évènement il convient de leur faire parvenir les réponses, afin de boucler la boucle !&lt;/p&gt;
+
+&lt;p&gt;Nous mettons à disposition une page de partage, synthèse de tous les sondages de la journée, accessible publiquement via une URL sécurisée.&lt;/p&gt;
+
+&lt;p&gt;Nous invitons les organisateurs à partager ce lien quel que soit le moyen : mail, slack, ou même pourquoi pas sur les réseaux sociaux pour rayonner sur ceux qui n’ont pas pu venir ?&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Events" /><summary type="html">Vous êtes organisateurs de Conférences, REX, TEDx ou autres évènements de ce type ? Vous le savez probablement mieux que nous la capture de feedback est un vrai casse-tête qui peut s’avérer très chronophage et très couteuse.</summary></entry><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/aes2018</id><content type="html" xml:base="https://blog.roti.express/aes2018">&lt;p&gt;Agile En Seine 2018 c’était mardi 25 septembre dernier !&lt;br /&gt;&lt;br /&gt;550 participants et 28 interventions sur le thème de l’agilité en entreprise, ce qui en fait une des conférences majeures de l’écosystème Agile Français.&lt;/p&gt;
 
 &lt;h3 id=&quot;feedbacks--en-temps-réel-svp&quot;&gt;Feedbacks ! (en temps réel svp)&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/aes_results1.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
