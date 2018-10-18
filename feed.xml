@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-18T08:58:57+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide : prise de feedback massive pour les évènements</title><link href="https://blog.roti.express/events" rel="alternate" type="text/html" title="Guide : prise de feedback massive pour les évènements" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/events</id><content type="html" xml:base="https://blog.roti.express/events">&lt;p&gt;Vous êtes organisateurs de Conférences, REX, TEDx ou autres évènements de ce type ? Vous le savez probablement mieux que nous la capture de feedback est un vrai casse-tête qui peut s’avérer très chronophage et très couteuse.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-18T10:50:19+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide : prise de feedback massive pour les évènements</title><link href="https://blog.roti.express/events" rel="alternate" type="text/html" title="Guide : prise de feedback massive pour les évènements" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/events</id><content type="html" xml:base="https://blog.roti.express/events">&lt;p&gt;Vous êtes organisateurs de Conférences, REX, TEDx ou autres évènements de ce type ? Vous le savez probablement mieux que nous la capture de feedback est un vrai casse-tête qui peut s’avérer très chronophage et très couteuse.&lt;/p&gt;
 
 &lt;h3 id=&quot;automatiser-la-prise-de-feedback&quot;&gt;Automatiser la prise de Feedback&lt;/h3&gt;
 
@@ -14,7 +14,7 @@ Plutôt bluffant non ? On vous explique tout de suite comment ça fonctionne, su
 
 &lt;h3 id=&quot;etape-1--faire-une-demande-de-devis&quot;&gt;Etape 1 : Faire une demande de devis&lt;/h3&gt;
 
-&lt;p&gt;Un évènement de cet ampleur est plus compliqué qu’une réunion et nous allons avoir besoin de récupérer quelques informations :&lt;/p&gt;
+&lt;p&gt;Un évènement de cette ampleur est plus compliqué qu’une réunion et nous allons avoir besoin de récupérer quelques informations :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Nombre de participants&lt;/li&gt;
 &lt;li&gt;Date et Durée&lt;/li&gt;
@@ -56,7 +56,7 @@ La demande de devis se fait par e-mail, vous pouvez nous écrire directement sur
 &lt;p&gt;Pour être clair si votre évènement se compose de 30 sessions, il faudra créer 30 sondages ! Cela représente un peu de travail, nous conseillons de le faire quelques jours avant.&lt;/p&gt;
 
 &lt;h3 id=&quot;etape-4--qr-codes-et-liens-de-partage&quot;&gt;Etape 4 : QR-Codes et liens de partage&lt;/h3&gt;
-&lt;p&gt;Une fois les sondages crées vous allez récupérer deux choses&lt;/p&gt;
+&lt;p&gt;Une fois les sondages créés vous allez récupérer deux choses&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Le lien de partage (URL pour répondre au sondage)&lt;/li&gt;
 &lt;li&gt;Un QR-Code, qui pointe aussi sur ce lien de partage &lt;/li&gt;
