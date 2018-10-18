@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-17T21:13:52+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide : prise de feedback massive pour les évènements</title><link href="https://blog.roti.express/events" rel="alternate" type="text/html" title="Guide : prise de feedback massive pour les évènements" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/events</id><content type="html" xml:base="https://blog.roti.express/events">&lt;p&gt;Vous êtes organisateurs de Conférences, REX, TEDx ou autres évènements de ce type ? Vous le savez probablement mieux que nous la capture de feedback est un vrai casse-tête qui peut s’avérer très chronophage et très couteuse.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" /><updated>2018-10-18T08:58:57+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide : prise de feedback massive pour les évènements</title><link href="https://blog.roti.express/events" rel="alternate" type="text/html" title="Guide : prise de feedback massive pour les évènements" /><published>2018-09-05T18:00:00+02:00</published><updated>2018-09-05T18:00:00+02:00</updated><id>https://blog.roti.express/events</id><content type="html" xml:base="https://blog.roti.express/events">&lt;p&gt;Vous êtes organisateurs de Conférences, REX, TEDx ou autres évènements de ce type ? Vous le savez probablement mieux que nous la capture de feedback est un vrai casse-tête qui peut s’avérer très chronophage et très couteuse.&lt;/p&gt;
 
 &lt;h3 id=&quot;automatiser-la-prise-de-feedback&quot;&gt;Automatiser la prise de Feedback&lt;/h3&gt;
 
 &lt;p&gt;Notre plateforme &lt;a href=&quot;https://roti.express&quot;&gt;Roti.express&lt;/a&gt; permet de faire de la prise de feedback massive de manière simple, ludique, et diablement efficace !&lt;/p&gt;
 
-&lt;p&gt;Chez nous les étapes de capture de feedback, d’enregistrement des réponses et de restitution des résultats sont entièrement automatisés.&lt;/p&gt;
+&lt;p&gt;Chez nous les étapes de capture de feedback, d’enregistrement des réponses et de restitution des résultats sont entièrement automatisées.&lt;/p&gt;
 
-&lt;p&gt;Et cerise sur le gâteau tout se passe en temps réel ! Vous pourrez donc observer en live pendant votre évènement les résulats arriver et l’analytique se remplir. Tout ce dont vous aurez besoin est d’un Smartphone, d’une Tablette ou d’un Ordinateur.&lt;/p&gt;
+&lt;p&gt;Et cerise sur le gâteau tout se passe en temps réel ! Vous pourrez donc observer en live pendant votre évènement les résultats arriver et l’analytique se remplir. Tout ce dont vous aurez besoin est d’un Smartphone, d’une Tablette ou d’un Ordinateur.&lt;/p&gt;
 
 &lt;p&gt;Voici un exemple de ce que nous avons fait pour &lt;a href=&quot;https://roti.express/feedback/aes2018&quot;&gt;Agile en Seine 2018&lt;/a&gt; (500 participants)
 &lt;a href=&quot;https://roti.express/feedback/aes2018&quot;&gt;&lt;img src=&quot;/assets/images/aes_background1.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;60%&quot; /&gt;&lt;/a&gt;
@@ -14,7 +14,7 @@ Plutôt bluffant non ? On vous explique tout de suite comment ça fonctionne, su
 
 &lt;h3 id=&quot;etape-1--faire-une-demande-de-devis&quot;&gt;Etape 1 : Faire une demande de devis&lt;/h3&gt;
 
-&lt;p&gt;Un évènement de cet ampleur c’est plus compliqué qu’une réunion et nous allons avoir besoin de quelques informations :&lt;/p&gt;
+&lt;p&gt;Un évènement de cet ampleur est plus compliqué qu’une réunion et nous allons avoir besoin de récupérer quelques informations :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Nombre de participants&lt;/li&gt;
 &lt;li&gt;Date et Durée&lt;/li&gt;
@@ -42,7 +42,7 @@ La demande de devis se fait par e-mail, vous pouvez nous écrire directement sur
 
 &lt;p&gt;Votre espace de travail est ouvert pour une durée de 30 jours : l’ouverture à lieu 15 jours avant l’évènement afin de le préparer et la fermeture 15 jours après.&lt;/p&gt;
 
-&lt;p&gt;Les données que vous avez collecté ne disparaissent pas de la plateforme, et les pages de partages restent accessibles (sauf indication contraire de votre part). Quand on dit “fermeture” de la plateforme c’est que les participants ne peuvent plus voter après un laps de temps de 15 jours.&lt;/p&gt;
+&lt;p&gt;Les données que vous avez collectées ne disparaissent pas de la plateforme, et les pages de partages restent accessibles (sauf indication contraire de votre part). Quand on dit “fermeture” de la plateforme c’est que les participants ne peuvent plus voter après un laps de temps de 15 jours.&lt;/p&gt;
 
 &lt;h3 id=&quot;etape-3--création-des-sondages&quot;&gt;Etape 3 : Création des sondages&lt;/h3&gt;
 
@@ -56,7 +56,7 @@ La demande de devis se fait par e-mail, vous pouvez nous écrire directement sur
 &lt;p&gt;Pour être clair si votre évènement se compose de 30 sessions, il faudra créer 30 sondages ! Cela représente un peu de travail, nous conseillons de le faire quelques jours avant.&lt;/p&gt;
 
 &lt;h3 id=&quot;etape-4--qr-codes-et-liens-de-partage&quot;&gt;Etape 4 : QR-Codes et liens de partage&lt;/h3&gt;
-&lt;p&gt;Une fois les sondage crées vous allez récupérer deux choses&lt;/p&gt;
+&lt;p&gt;Une fois les sondages crées vous allez récupérer deux choses&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Le lien de partage (URL pour répondre au sondage)&lt;/li&gt;
 &lt;li&gt;Un QR-Code, qui pointe aussi sur ce lien de partage &lt;/li&gt;
@@ -77,7 +77,7 @@ De ce que nous avons pu observer le nombre de réponses obtenues est proportionn
 &lt;ul&gt;
 &lt;li&gt;Communiquer aux speakers sur le &quot;pourquoi&quot; vous souhaitez recueillir du feedback&lt;/li&gt;
 &lt;li&gt;Que le speaker prévoit un laps de temps (2-3 minutes) en fin de session dédié à la prise de feedback&lt;/li&gt;
-&lt;li&gt;Que le speaker explique à son tour pourquoi c'est important pour lui et pour les organisateurs da capturer le ressenti de l'audience&lt;/li&gt;
+&lt;li&gt;Que le speaker explique à son tour pourquoi c'est important pour lui et pour les organisateurs de capturer le ressenti de l'audience&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;L’intervenant ne doit pas se sentir pris en otage par cette évaluation, c’est important qu’il comprenne que cette information lui est utile pour pouvoir apprécier la valeur de sa prestation vue depuis le public. Les commentaires laissés sont en général des pistes d’amélioration qui lui permettrons de faire mieux lors de sa prochaine présentation.&lt;/p&gt;
 
