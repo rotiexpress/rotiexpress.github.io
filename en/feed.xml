@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-10-21T14:30:48+02:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express//en/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-25T18:00:00+02:00</published><updated>2018-09-25T18:00:00+02:00</updated><id>https://blog.roti.express//en/aes2018</id><content type="html" xml:base="https://blog.roti.express//en/aes2018">&lt;p&gt;Agile En Seine 2018 was Tuesday, September 25th! &lt;br /&gt;&lt;br /&gt; 550 participants and 28 talks on the topic of Agile in business, making it one of the major conferences of the French Agile ecosystem.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-10-24T18:18:31+02:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express//en/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-25T18:00:00+02:00</published><updated>2018-09-25T18:00:00+02:00</updated><id>https://blog.roti.express//en/aes2018</id><content type="html" xml:base="https://blog.roti.express//en/aes2018">&lt;p&gt;Agile En Seine 2018 was Tuesday, September 25th! &lt;br /&gt;&lt;br /&gt; 550 participants and 28 talks on the topic of Agile in business, making it one of the major conferences of the French Agile ecosystem.&lt;/p&gt;
 
 &lt;h3 id=&quot;feedbacks--in-real-time-please&quot;&gt;Feedbacks ! (in real time please)&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/aes_results1_EN.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
@@ -53,4 +53,68 @@ More than 430 feedbacks were received, thanks to our Roti.express platform, whic
 
 &lt;p&gt;Contact us directly by e-mail at : &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;survey@roti.express&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Events" /><summary type="html">Agile En Seine 2018 was Tuesday, September 25th! 550 participants and 28 talks on the topic of Agile in business, making it one of the major conferences of the French Agile ecosystem.</summary></entry></feed>
+&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Events" /><summary type="html">Agile En Seine 2018 was Tuesday, September 25th! 550 participants and 28 talks on the topic of Agile in business, making it one of the major conferences of the French Agile ecosystem.</summary></entry><entry><title type="html">The worst meeting of my entire life</title><link href="https://blog.roti.express//en/origins-en" rel="alternate" type="text/html" title="The worst meeting of my entire life" /><published>2018-08-03T18:00:00+02:00</published><updated>2018-08-03T18:00:00+02:00</updated><id>https://blog.roti.express//en/origins-en</id><content type="html" xml:base="https://blog.roti.express//en/origins-en">&lt;h2 id=&quot;the-day-it-all-started-&quot;&gt;The day it all started …&lt;/h2&gt;
+
+&lt;p&gt;Summer 2017, I am consultant in a mission for a client who starts a digital transformation, big project over 2 years, critical and strategic for the company.&lt;/p&gt;
+
+&lt;p&gt;It’s 14:00 am I attend my first “weekly meeting”, I’m not the animator but a simple participants, let’s start !&lt;/p&gt;
+
+&lt;p&gt;And there I experienced the worst meeting of my life, everything went wrong:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;14 people were invited: physical &amp;amp; online with skype&lt;/li&gt;
+  &lt;li&gt;some participants were (very) late&lt;/li&gt;
+  &lt;li&gt;there was no agenda&lt;/li&gt;
+  &lt;li&gt;some topics without any relation to the meeting were discussed&lt;/li&gt;
+  &lt;li&gt;no output / todo-list&lt;/li&gt;
+  &lt;li&gt;I thought I touched the bottom when I realized one of the participants allowed himself to answer his phone during the meeting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I watch the disaster, and suddenly the little Agile coach that sleeps inside me says :&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“at the end of the meeting it is ** mandatory ** to get feedbacks from the participants and make sure that this nightmare does not repeat next week”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;At this moment I am thinking of ROTI (Return On Time Invested), this easy and quick ceremony that allows you to quickly assess the satisfaction with the meeting and get some area of improvement.&lt;/p&gt;
+
+&lt;h2 id=&quot;frustration&quot;&gt;Frustration&lt;/h2&gt;
+&lt;p&gt;We started late, and of course we finished late, the clock is running, the room is reserved, the participants have other meetings that are already starting, the Skype participants are disconnecting … no more time to do the Roti, I am alone as a fool with my idea of taking feedback, I feel hopeless.&lt;/p&gt;
+
+&lt;p&gt;I went home terribly frustrated and on the way back (in the subway) I decided:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“It does not matter, I could not do it live but I’ll do it offline, I have the email addresses of everyone and I intend to ask them for feedback by e-mail”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I spend a good part of my evening looking for a tool that would simply ask my two questions to participants:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;On a scale of 1 to 5 how would you rate the time spent on this meeting?&lt;/li&gt;
+  &lt;li&gt;What could be improved for next time?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ok_google.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;
+After reviewing what Google offers and various survey tools I ended up realizing that there was no tool that would answer simply to my need.&lt;/p&gt;
+
+&lt;h2 id=&quot;creation&quot;&gt;Creation&lt;/h2&gt;
+&lt;p&gt;After that, next steps came quickly! It is 21:00 I contact Guillaume (the other co-founder) by phone, I explain my problems of the day.&lt;/p&gt;
+
+&lt;p&gt;Ideas are spinning in our heads, it’s no longer just a feedback tool that we think about, but an online platform that allows companies to do ROTI surveys in seconds, track their progress over time, identify quickly a meeting that goes wrong : continuous improvement applied to meetings!&lt;/p&gt;
+
+&lt;p&gt;The machine is on track, the following days I wake up at 5am to draw the screens, Guillaume writes the first lines of codes, we decide on a name “roti.express” and choose a nice logo !&lt;/p&gt;
+
+&lt;p&gt;Prototype, MVP, cloud architecture, field tests, scalability, acceleration at Station F! … But all this is another story, see you in the next article!&lt;/p&gt;
+
+&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">The day it all started …</summary></entry><entry><title type="html">Roti.express Blog opening</title><link href="https://blog.roti.express//en/welcome" rel="alternate" type="text/html" title="Roti.express Blog opening" /><published>2018-07-27T18:00:00+02:00</published><updated>2018-07-27T18:00:00+02:00</updated><id>https://blog.roti.express//en/welcome</id><content type="html" xml:base="https://blog.roti.express//en/welcome">&lt;p&gt;Hello and welcome to our blog.&lt;/p&gt;
+
+&lt;p&gt;It’s nice to see you here! In September 2017, a year ago, we designed the first screens and wrote the first lines of code of our Roti.express application.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Since last year many things happened and we decided to launch this blog to tell you about our adventures! Come back soon, you will not be disappointed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the meantime we invite you to watch &lt;a href=&quot;https://www.youtube.com/watch?v=K_E4HGfBCpQ&quot;&gt;a small video of 59 seconds&lt;/a&gt; that explains what Roti.express is.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K_E4HGfBCpQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;And if you already know what it is, &lt;a href=&quot;https://roti.express/start&quot;&gt;just start your first survey&lt;/a&gt; for your events.&lt;/p&gt;
+
+&lt;p&gt;See you soon.&lt;/p&gt;</content><author><name>Guillaume Darbonne</name></author><category term="Hello World !" /><summary type="html">Hello and welcome to our blog.</summary></entry></feed>
