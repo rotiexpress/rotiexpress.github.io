@@ -1,14 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-10-24T18:18:31+02:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express//en/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-25T18:00:00+02:00</published><updated>2018-09-25T18:00:00+02:00</updated><id>https://blog.roti.express//en/aes2018</id><content type="html" xml:base="https://blog.roti.express//en/aes2018">&lt;p&gt;Agile En Seine 2018 was Tuesday, September 25th! &lt;br /&gt;&lt;br /&gt; 550 participants and 28 talks on the topic of Agile in business, making it one of the major conferences of the French Agile ecosystem.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-10-31T11:18:05+01:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide: getting massive feedback for events</title><link href="https://blog.roti.express//en/events-en" rel="alternate" type="text/html" title="Guide:  getting massive feedback for events" /><published>2018-10-16T18:00:00+02:00</published><updated>2018-10-16T18:00:00+02:00</updated><id>https://blog.roti.express//en/events-en</id><content type="html" xml:base="https://blog.roti.express//en/events-en">&lt;p&gt;You are an organizer of Conferences, REX, TEDx or other events of this type? You probably know better than us that getting feedback is a real puzzle that can be very time consuming and very expensive.&lt;/p&gt;
+
+&lt;h3 id=&quot;automating-the-taking-of-feedback&quot;&gt;Automating the taking of Feedback&lt;/h3&gt;
+
+&lt;p&gt;Our &lt;a href=&quot;https://roti.express&quot;&gt;Roti.express&lt;/a&gt; platform  allows to make massive feedback in a simple, fun, and really effective way! &lt;/p&gt;
+
+&lt;p&gt;With us, the steps for capturing feedback, recording answers and providing results are fully automated.&lt;/p&gt;
+
+&lt;p&gt;And icing on the cake ; everything happens in real time! You’ll be able to observe the arrival of the results and the analytics filling as your event unfolds. All you need is a smartphone, a tablet or a computer.&lt;/p&gt;
+
+&lt;p&gt;Here is an example of what we did for &lt;a href=&quot;https://roti.express/feedback/aes2018&quot;&gt;Agile en Seine 2018&lt;/a&gt; (500 participants)
+&lt;a href=&quot;https://roti.express/feedback/aes2018&quot;&gt;&lt;img src=&quot;/assets/images/aes_background1.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;60%&quot; /&gt;&lt;/a&gt;
+That’s rather impressive, isn’t it? Let’sexplain how it works ;follow the guide!&lt;/p&gt;
+
+&lt;h3 id=&quot;step-1-ask-for-a-quotation&quot;&gt;Step 1: Ask for a quotation&lt;/h3&gt;
+
+&lt;p&gt;An event of this magnitude is more complicated than a meeting and we’ll need to have some information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Number of participants&lt;/li&gt;
+&lt;li&gt;Date and Duration&lt;/li&gt;
+&lt;li&gt;Number of sessions&lt;/li&gt;
+&lt;li&gt;Do you need us on the site?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Why are we asking all this?&lt;/b&gt; &lt;br /&gt;
+In order to ensure the quality of the incoming feedback and to receive important loads on the platform we provision machines (servers, load balancer etc ..) to absorb the peaks of simultaneous connections.
+&lt;br /&gt;All this is planned up ahead, and requires a little work on our part!
+&lt;img src=&quot;/assets/images/event_offering_en.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;30%&quot; /&gt;
+The quote request is done through e-mail, you can contact us directly at &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;survey@roti.express&lt;/a&gt;. We’ll get back to you as soon as possible!&lt;/p&gt;
+
+&lt;h3 id=&quot;step-2-your-workspace&quot;&gt;Step 2: Your workspace&lt;/h3&gt;
+
+&lt;p&gt;Once we have reached an agrement we will create your workspace, then you will receive a link to join the team.&lt;/p&gt;
+
+&lt;p&gt;It is from this space that you will be able to administer the event: &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Choose a name and customize your logo&lt;/li&gt;
+  &lt;li&gt;Create and set polls&lt;/li&gt;
+  &lt;li&gt;Retrieve QR-Codes and share links&lt;/li&gt;
+  &lt;li&gt;View all detailed results&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Your workspace is open for a period of 30 days: the opening takes place 15 days before the event to prepare it and the closing is 15 days later.&lt;/p&gt;
+
+&lt;p&gt;The data you have collected does not disappear from the platform, and the sharing pages remain accessible (unless you specify otherwise). When we say “closing” the platform we mean that the participants can not vote after a period of 15 days.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-3-creating-polls&quot;&gt;Step 3: Creating polls&lt;/h3&gt;
+
+&lt;p&gt;We are then getting into the heart of the subject, we must create for each intervention the associated survey by indicating:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The name of the session&lt;/li&gt;
+&lt;li&gt;The name of the speaker&lt;/li&gt;
+&lt;li&gt;Date, time and duration&lt;/li&gt;
+&lt;li&gt;as well as some parameters (visibility, anonymous answers, etc.) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To be clear if your event consists of 30 sessions, it will be necessary to create 30 polls! This is a bit of work, we recommend doing it a few days in advance.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-4-qr-codes-and-sharing-links&quot;&gt;Step 4: QR-Codes and sharing links&lt;/h3&gt;
+&lt;p&gt;Once the polls have been created you will get two things&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The share link (URL to reply to the survey)&lt;/li&gt;
+&lt;li&gt;A QR-Code, which also points to this sharing link &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These elements will allow you to collect feedback automatically.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;QR codes&lt;/b&gt;&lt;br /&gt;
+The best way to get feedback is “while they’re still hot” just at the end of the intervention. You will need to ask your speakers to be kind enough to integrate a QR-Code on the last slide of their PowerPoint presentation.
+&lt;img src=&quot;/assets/images/hand.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;
+&lt;b&gt;Affiches&lt;/b&gt;&lt;br /&gt;
+From your workspace you have the possibility to create posters that contain the name of the session and the QR-Code, we recommend placing these posters at the exits of the conference rooms and printing them in A3 format.
+&lt;img src=&quot;/assets/images/aes_wall.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;step-5-the-d-day&quot;&gt;Step 5: The D day&lt;/h3&gt;
+
+&lt;p&gt;&lt;b&gt;Explain carefully the approach to the speakers&lt;/b&gt;&lt;br /&gt;
+From what we have been able to observe the number of answers obtained is proportional to the duration of the explanation to the speaker. So if you want to maximize the number of feedbacks you will need:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To talk to the speaker about the reasons you want to collect feedback&lt;/li&gt;
+&lt;li&gt;That the speaker includes a lapse of time (2-3 minutes) at the end of the session dedicated to the taking of feedback&lt;/li&gt;
+&lt;li&gt;That the speaker explains in turn why it is important for him and for the organizers to capture the feelings of the audience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The speakers should not feel hijacked by this evaluation, it is important that they understand that this information is useful for him to appreciate the value of his service from the audience’s point of view. The comments left are generally ways of improvement that will enable him to do better during his next presentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Real time tracking&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This is the best moment!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Our platform offers “real” real time, that is to say that you will be able to observe live responses coming and summary tables of results filling themselves. &lt;/p&gt;
+
+&lt;p&gt;And that as simply as opening a link from your smartphone, tablet, computer or even from a TV screen&lt;/p&gt;
+
+&lt;h3 id=&quot;step-6-d-day--1&quot;&gt;Step 6: D day + 1&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Survey links&lt;/b&gt;&lt;br /&gt;
+To collect even more feedback, you can also e-mail the participants afterwards by sending them the links to the different polls.&lt;/p&gt;
+
+&lt;p&gt;This possibility is offered for the 15 days following the event. &lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Sharing results&lt;/b&gt;&lt;br /&gt;
+When people are polled about an event it is advisable to send them the results, in order to complete the loop!&lt;/p&gt;
+
+&lt;p&gt;We make available a sharing page with a summary of all polls of the day, publicly accessible via a secure URL.&lt;/p&gt;
+
+&lt;p&gt;We invite the organizers to share this link whatever the means: mail, slack, or even social networks to reach to those who could not come?&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Events" /><summary type="html">You are an organizer of Conferences, REX, TEDx or other events of this type? You probably know better than us that getting feedback is a real puzzle that can be very time consuming and very expensive.</summary></entry><entry><title type="html">Agile en Seine 2018</title><link href="https://blog.roti.express//en/aes2018" rel="alternate" type="text/html" title="Agile en Seine 2018" /><published>2018-09-25T18:00:00+02:00</published><updated>2018-09-25T18:00:00+02:00</updated><id>https://blog.roti.express//en/aes2018</id><content type="html" xml:base="https://blog.roti.express//en/aes2018">&lt;p&gt;Agile En Seine 2018 was Tuesday, September 25th! &lt;br /&gt;&lt;br /&gt; 550 participants and 28 talks on the topic of Agile in business, making it one of the major conferences of the French Agile ecosystem.&lt;/p&gt;
 
 &lt;h3 id=&quot;feedbacks--in-real-time-please&quot;&gt;Feedbacks ! (in real time please)&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/images/aes_results1_EN.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;90%&quot; /&gt;
 More than 430 feedbacks were received, thanks to our Roti.express platform, which measured the satisfaction rate of the sessions.&lt;/p&gt;
 
-&lt;p&gt;We were here all day long, and observed in real time the feedbacks arrive on the platform. At the exit of the rooms the speakers came to find us to know their “score” in preview!&lt;/p&gt;
+&lt;p&gt;We were here all day long, and observed in real time the feedbacks on the arriving on the platform. At the exit of the rooms the speakers came to us to get a preview of their “scores”!&lt;/p&gt;
 
-&lt;p&gt;The average score is 4.12/5, with an outstanding score of 4.91 for the inspiring talk of Virginie Guyot.&lt;/p&gt;
+&lt;p&gt;The average score was 4.12/5, with an outstanding score of 4.91/5 for the inspiring talk of Virginie Guyot.&lt;/p&gt;
 
-&lt;p&gt;These feedbacks are shared with the speakers and participants in a mindset of continuous improvement.&lt;/p&gt;
+&lt;p&gt;These feedbacks were shared with the speakers and participants in a mindset of continuous improvement.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://roti.express/feedback/aes2018&quot;&gt; Watch the full results Agile en Seine 2018&lt;/a&gt;&lt;/p&gt;
 
@@ -44,7 +147,7 @@ More than 430 feedbacks were received, thanks to our Roti.express platform, whic
 
 &lt;p&gt;And for those who did not have time to flash the code we made posters in A3 format for each of the sessions, we put them on the doors of each conference room.&lt;/p&gt;
 
-&lt;p&gt;We have installed a “QR-Code Wall” in the corridor that connects the different rooms!
+&lt;p&gt;We plastered a “QR-Code Wall” in the corridor that connects the different rooms!
 &lt;img src=&quot;/assets/images/aes_wall.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;want-to-work-with-us-for-your-events&quot;&gt;Want to work with us for your events?&lt;/h3&gt;
@@ -53,11 +156,11 @@ More than 430 feedbacks were received, thanks to our Roti.express platform, whic
 
 &lt;p&gt;Contact us directly by e-mail at : &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;survey@roti.express&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Events" /><summary type="html">Agile En Seine 2018 was Tuesday, September 25th! 550 participants and 28 talks on the topic of Agile in business, making it one of the major conferences of the French Agile ecosystem.</summary></entry><entry><title type="html">The worst meeting of my entire life</title><link href="https://blog.roti.express//en/origins-en" rel="alternate" type="text/html" title="The worst meeting of my entire life" /><published>2018-08-03T18:00:00+02:00</published><updated>2018-08-03T18:00:00+02:00</updated><id>https://blog.roti.express//en/origins-en</id><content type="html" xml:base="https://blog.roti.express//en/origins-en">&lt;h2 id=&quot;the-day-it-all-started-&quot;&gt;The day it all started …&lt;/h2&gt;
+&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Events" /><summary type="html">Agile En Seine 2018 was Tuesday, September 25th! 550 participants and 28 talks on the topic of Agile in business, making it one of the major conferences of the French Agile ecosystem.</summary></entry><entry><title type="html">The worst meeting in my entire life</title><link href="https://blog.roti.express//en/origins-en" rel="alternate" type="text/html" title="The worst meeting in my entire life" /><published>2018-08-03T18:00:00+02:00</published><updated>2018-08-03T18:00:00+02:00</updated><id>https://blog.roti.express//en/origins-en</id><content type="html" xml:base="https://blog.roti.express//en/origins-en">&lt;h2 id=&quot;the-day-it-all-started-&quot;&gt;The day it all started …&lt;/h2&gt;
 
-&lt;p&gt;Summer 2017, I am consultant in a mission for a client who starts a digital transformation, big project over 2 years, critical and strategic for the company.&lt;/p&gt;
+&lt;p&gt;Summer 2017, I am consultant in a mission for a client who is starting a digital transformation, big project over 2 years, critical and strategic for the company.&lt;/p&gt;
 
-&lt;p&gt;It’s 14:00 am I attend my first “weekly meeting”, I’m not the animator but a simple participants, let’s start !&lt;/p&gt;
+&lt;p&gt;It’s 14:00 and I attend my first “weekly meeting”, I’m not the meeting facilitator but a simple participants, let’s start !&lt;/p&gt;
 
 &lt;p&gt;And there I experienced the worst meeting of my life, everything went wrong:&lt;/p&gt;
 
@@ -65,27 +168,27 @@ More than 430 feedbacks were received, thanks to our Roti.express platform, whic
   &lt;li&gt;14 people were invited: physical &amp;amp; online with skype&lt;/li&gt;
   &lt;li&gt;some participants were (very) late&lt;/li&gt;
   &lt;li&gt;there was no agenda&lt;/li&gt;
-  &lt;li&gt;some topics without any relation to the meeting were discussed&lt;/li&gt;
+  &lt;li&gt;some topics without any connection to the meeting were discussed&lt;/li&gt;
   &lt;li&gt;no output / todo-list&lt;/li&gt;
-  &lt;li&gt;I thought I touched the bottom when I realized one of the participants allowed himself to answer his phone during the meeting&lt;/li&gt;
+  &lt;li&gt;I thought I had reached the bottom when I noticed that one of the participants allowed himself to answer his phone during the meeting&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I watch the disaster, and suddenly the little Agile coach that sleeps inside me says :&lt;/p&gt;
+&lt;p&gt;I was watching the disaster, when suddenly in my head the little Agile coach said :&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“at the end of the meeting it is ** mandatory ** to get feedbacks from the participants and make sure that this nightmare does not repeat next week”&lt;/p&gt;
+  &lt;p&gt;“at the end of the meeting we absolutely have to get feedbacks from the participants and make sure that this nightmare does not repeat next week”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;At this moment I am thinking of ROTI (Return On Time Invested), this easy and quick ceremony that allows you to quickly assess the satisfaction with the meeting and get some area of improvement.&lt;/p&gt;
+&lt;p&gt;At this moment I am thinking of ROTI (Return On Time Invested), this easy and quick agile ritual that enables you to quickly evaluate the satisfaction with the meeting and get some means of improvement.&lt;/p&gt;
 
 &lt;h2 id=&quot;frustration&quot;&gt;Frustration&lt;/h2&gt;
-&lt;p&gt;We started late, and of course we finished late, the clock is running, the room is reserved, the participants have other meetings that are already starting, the Skype participants are disconnecting … no more time to do the Roti, I am alone as a fool with my idea of taking feedback, I feel hopeless.&lt;/p&gt;
+&lt;p&gt;We started late, and of course we finished late, the clock is running, the room is reserved, the participants have other meetings that are already starting, the Skype participants are disconnecting … no more time to do the Roti, I feel like a fool, alone with my idea of getting feedback, I feel hopeless&lt;/p&gt;
 
 &lt;p&gt;I went home terribly frustrated and on the way back (in the subway) I decided:&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“It does not matter, I could not do it live but I’ll do it offline, I have the email addresses of everyone and I intend to ask them for feedback by e-mail”&lt;/p&gt;
+  &lt;p&gt;“It does not matter, I could not do it live but I’ll do it offline, I have the email addresses of everyone and I intend to ask for their feedback through e-mail”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I spend a good part of my evening looking for a tool that would simply ask my two questions to participants:&lt;/p&gt;
+&lt;p&gt;I spent a good part of the evening looking for a tool that would simply ask those two questions to the participants:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;On a scale of 1 to 5 how would you rate the time spent on this meeting?&lt;/li&gt;
   &lt;li&gt;What could be improved for next time?&lt;/li&gt;
@@ -95,11 +198,11 @@ More than 430 feedbacks were received, thanks to our Roti.express platform, whic
 After reviewing what Google offers and various survey tools I ended up realizing that there was no tool that would answer simply to my need.&lt;/p&gt;
 
 &lt;h2 id=&quot;creation&quot;&gt;Creation&lt;/h2&gt;
-&lt;p&gt;After that, next steps came quickly! It is 21:00 I contact Guillaume (the other co-founder) by phone, I explain my problems of the day.&lt;/p&gt;
+&lt;p&gt;After that, next steps came quickly! It is 9pm I contacted Guillaume (the other co-founder) by phone, I explained my problems of the day.&lt;/p&gt;
 
-&lt;p&gt;Ideas are spinning in our heads, it’s no longer just a feedback tool that we think about, but an online platform that allows companies to do ROTI surveys in seconds, track their progress over time, identify quickly a meeting that goes wrong : continuous improvement applied to meetings!&lt;/p&gt;
+&lt;p&gt;Ideas are spinning in our heads, it’s no longer just a feedback tool that we are thinking about, but an online platform that allows companies to do ROTI surveys instantly, track their progress over time, identify quickly a meeting that goes wrong : continuous improvement applied to meetings!&lt;/p&gt;
 
-&lt;p&gt;The machine is on track, the following days I wake up at 5am to draw the screens, Guillaume writes the first lines of codes, we decide on a name “roti.express” and choose a nice logo !&lt;/p&gt;
+&lt;p&gt;Our minds are set, the following days I wake up at 5am to draw the screens, Guillaume writes the first lines of codes, we decide on a name “roti.express” and choose a nice logo !&lt;/p&gt;
 
 &lt;p&gt;Prototype, MVP, cloud architecture, field tests, scalability, acceleration at Station F! … But all this is another story, see you in the next article!&lt;/p&gt;
 
@@ -108,10 +211,10 @@ After reviewing what Google offers and various survey tools I ended up realizing
 &lt;p&gt;It’s nice to see you here! In September 2017, a year ago, we designed the first screens and wrote the first lines of code of our Roti.express application.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Since last year many things happened and we decided to launch this blog to tell you about our adventures! Come back soon, you will not be disappointed.&lt;/p&gt;
+  &lt;p&gt;Since last year many things have happened and we decided to launch this blog to tell you about our adventures! Come back soon, you will not be disappointed.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In the meantime we invite you to watch &lt;a href=&quot;https://www.youtube.com/watch?v=K_E4HGfBCpQ&quot;&gt;a small video of 59 seconds&lt;/a&gt; that explains what Roti.express is.&lt;/p&gt;
+&lt;p&gt;In the meantime we invite you to watch &lt;a href=&quot;https://www.youtube.com/watch?v=K_E4HGfBCpQ&quot;&gt;a short 59 seconds video&lt;/a&gt; that explains what Roti.express is about.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K_E4HGfBCpQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 
