@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-10-31T12:44:05+01:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide: getting massive feedback for events</title><link href="https://blog.roti.express//en/events-en" rel="alternate" type="text/html" title="Guide:  getting massive feedback for events" /><published>2018-10-16T18:00:00+02:00</published><updated>2018-10-16T18:00:00+02:00</updated><id>https://blog.roti.express//en/events-en</id><content type="html" xml:base="https://blog.roti.express//en/events-en">&lt;p&gt;You are an organizer of Conferences, REX, TEDx or other events of this type? You probably know better than us that getting feedback is a real puzzle that can be very time consuming and very expensive.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-11-05T14:14:14+01:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide: getting massive feedback for events</title><link href="https://blog.roti.express//en/events-en" rel="alternate" type="text/html" title="Guide:  getting massive feedback for events" /><published>2018-10-16T18:00:00+02:00</published><updated>2018-10-16T18:00:00+02:00</updated><id>https://blog.roti.express//en/events-en</id><content type="html" xml:base="https://blog.roti.express//en/events-en">&lt;p&gt;You are an organizer of Conferences, REX, TEDx or other events of this type? You probably know better than us that getting feedback is a real puzzle that can be very time consuming and very expensive.&lt;/p&gt;
 
 &lt;h3 id=&quot;automating-the-taking-of-feedback&quot;&gt;Automating the taking of Feedback&lt;/h3&gt;
 
@@ -245,7 +245,108 @@ These visuals will be used for social networks and for the advertising campaigns
 
 &lt;p&gt;On its website Happytech also offers a &lt;a href=&quot;https://france.happytech.life/membres/&quot;&gt;catalog&lt;/a&gt; where the solutions of the members are presented.&lt;/p&gt;
 
-&lt;p&gt;(to be continued!)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Partners &amp; Friends" /><summary type="html">Since its creation in 2017 we’ve been members of theHappyTech community, let’s go back this story.</summary></entry><entry><title type="html">The worst meeting in my entire life</title><link href="https://blog.roti.express//en/origins-en" rel="alternate" type="text/html" title="The worst meeting in my entire life" /><published>2018-08-03T18:00:00+02:00</published><updated>2018-08-03T18:00:00+02:00</updated><id>https://blog.roti.express//en/origins-en</id><content type="html" xml:base="https://blog.roti.express//en/origins-en">&lt;h2 id=&quot;the-day-it-all-started-&quot;&gt;The day it all started …&lt;/h2&gt;
+&lt;p&gt;(to be continued!)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Partners &amp; Friends" /><summary type="html">Since its creation in 2017 we’ve been members of theHappyTech community, let’s go back this story.</summary></entry><entry><title type="html">How to fail your survey in 5 steps</title><link href="https://blog.roti.express//en/fail_survey-en" rel="alternate" type="text/html" title="How to fail your survey in 5 steps" /><published>2018-09-04T18:00:00+02:00</published><updated>2018-09-04T18:00:00+02:00</updated><id>https://blog.roti.express//en/fail_survey-en</id><content type="html" xml:base="https://blog.roti.express//en/fail_survey-en">&lt;h3 id=&quot;1-begin-by-lying-to-the-respondents&quot;&gt;1. Begin by lying to the respondents&lt;/h3&gt;
+
+&lt;p&gt;So start with a sentence like “This survey will not take you more than 3 minutes” while you know it won’t, but as you want to have a maximum of answers you think it’s a good idea.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Consequence: You have a very good chance to fool people and they’llbelieve you … this time anyway!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;2-ask-a-lot-of-questions&quot;&gt;2. Ask a lot of questions&lt;/h3&gt;
+
+&lt;p&gt;You want to gather as much information as possible, and you think that this survey is an opportunity to put a maximum of questions to collect as much data as possible!&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Consequence: at question 2 (text field, mandatory, min 50 words) you have already lost 80% of your audience&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;3-offer-a-horrible-ux-user-experience&quot;&gt;3. Offer a horrible UX (User Experience) &lt;/h3&gt;
+
+&lt;p&gt;A survey is something disposable, no one remembers it, so why bother doing something enjoyable to use?&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Consequence: in addition to being endless, the interface is unpleasant or even bugged and the questions are inaccurate .. Congratulations! you lose more than 50% of your audience again&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;4-do-not-share-the-results&quot;&gt;4. Do not share the results&lt;/h3&gt;
+
+&lt;p&gt;The results belong to you, and you intend to make the numbers say what you want in order to receive a premium and to please your manager.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Consequence: zero transparency, the survivors of your audience have just spent 25 minutes answering a questionnaire of which they will never see the result and on top of that the results are tampered .. There for sure, you have reached the summits!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;5-institute-the-bashing-culture&quot;&gt;5. Institute the bashing culture &lt;/h3&gt;
+
+&lt;p&gt;Because a survey is an opportunity to let off steam and empty one’s bag, do not close your questions and if possible make them mandatory.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Consequence: your survey’s a means of blowing off steam, there are no interesting information to draw, no hints at improvement, only the dissatisfaction of those you force to respond.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/quoi_en.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;its-simple-and-damn-effective&quot;&gt;It’s simple, and damn effective!&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+The ROTI survey is composed of  &lt;strong&gt;2 questions&lt;/strong&gt;, always the same! and oriented only on &lt;strong&gt;1 évènement&lt;/strong&gt; at a time.&lt;/p&gt;
+
+&lt;p&gt;The responding time is estimated at only  &lt;strong&gt;30 secondes&lt;/strong&gt; seulement (no more).&lt;/p&gt;
+
+&lt;p&gt;We offer a &lt;strong&gt;great UX&lt;/strong&gt; that works on computer, tablet, mobile without installing an app or even creating login / password.&lt;/p&gt;
+
+&lt;p&gt;By default the &lt;strong&gt;sharing of answers&lt;/strong&gt; is activated, and we propose to generate a sharing link to diffuse more widely in full &lt;strong&gt;transparency&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We convey a culture of &lt;strong&gt;constructive feedback&lt;/strong&gt; that is the essence of our product.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://roti.express&quot;&gt;&lt;img src=&quot;/assets/images/regles_en.png&quot; alt=&quot;Regles ROTI&quot; width=&quot;85%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Epic Fail" /><summary type="html">1. Begin by lying to the respondents</summary></entry><entry><title type="html">Feedback</title><link href="https://blog.roti.express//en/feedback-en" rel="alternate" type="text/html" title="Feedback" /><published>2018-08-05T18:00:00+02:00</published><updated>2018-08-05T18:00:00+02:00</updated><id>https://blog.roti.express//en/feedback-en</id><content type="html" xml:base="https://blog.roti.express//en/feedback-en">&lt;h3 id=&quot;fidbak&quot;&gt;\fid.bak\&lt;/h3&gt;
+
+&lt;p&gt;Let’s go back for a moment to the concept of feedback.&lt;/p&gt;
+
+&lt;p&gt; Feedback is something that happens in people’s minds after watching something (a meeting, a movie, a presentation, etc.) and very often, and unfortunately, it is not expressed in words&lt;/p&gt;
+
+&lt;h3 id=&quot;self-evaluation&quot;&gt;Self evaluation&lt;/h3&gt;
+
+&lt;p&gt;During a performance, it is very difficult to self-evaluate, unless you record yourself .. and yet!&lt;/p&gt;
+
+&lt;p&gt;It is nevertheless a very precious element, moreover it is a natural thing to ask the question to others around you.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;For example after making a presentation the first thing I invariably do when I leave the room is to ask Guillaume: So how was I? did you like it? what did you think?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To ask for feedback is to benefit from other people’s points of view, and what interests us there is constructive criticism because it enables us to progress, to improve and to grow.&lt;/p&gt;
+
+&lt;p&gt;Every human being is different and will have their own perception and feedback, if we strive to harvest a maximum of them we will obtain an objective opinion.
+&lt;img src=&quot;/assets/images/team-feecback.jpg&quot; alt=&quot;drawing&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;sharing-ones-feedback-a-story-of-benevolence&quot;&gt;Sharing one’s feedback, a story of benevolence?&lt;/h3&gt;
+
+&lt;p&gt;Feedback is something I can choose to give or keep for myself.&lt;/p&gt;
+
+&lt;p&gt; I notice that my competitor who is about to present his product after me has a beautiful piece of lettuce stuck between his teeth: I choose not to give him my feedback!&lt;/p&gt;
+
+&lt;p&gt;Michel, the building safety officer, has just given me a hour and half lecture on fire safety and the operation of foam fire extinguishers: I choose to give him my feedback! Look Michel it was very good but my feeling is that it was too long, you lost everyone in the first half hour, wouldn’t 45 minutes be sufficient enough? a practical exercise? a video maybe?&lt;/p&gt;
+
+&lt;h3 id=&quot;mindset&quot;&gt;Mindset&lt;/h3&gt;
+
+&lt;p&gt;There is also a matter of mindset behind all this: am I ready to hear feedback from a third party? Am I ready to hear a criticism that will allow me to improve?&lt;/p&gt;
+
+&lt;p&gt;The good news is that most people want to improve and for them this reflex is natural.&lt;/p&gt;
+
+&lt;p&gt;There are however exceptions ; people a little infatuated with themselves? tyrannical managers? who could tell me “I know what I’m doing and I have no advice to receive from you!” and it’s a shame because I wanted to tell you that you had a piece of salad between your teeth.&lt;/p&gt;
+
+&lt;p&gt;In her book &lt;a href=&quot;https://www.amazon.fr/Mindset-How-Fulfil-Your-Potential/dp/1780332009&quot;&gt;Mindset&lt;/a&gt;, which I recommend, Carol Dweck explains in detail the difference between a &lt;em&gt;fixed mindset&lt;/em&gt; and a &lt;em&gt;growth mindset&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;scrum-retrospective&quot;&gt;SCRUM retrospective&lt;/h3&gt;
+&lt;p&gt;Let’s take a closer look at what SCRUM offers and in particular the Retrospective ritual, what is the purpose of a retrospective? &lt;/p&gt;
+
+&lt;p&gt;The retrospective is a ritual (a meeting) at the end of each sprint (iteration) during which the Scrum team accounts for its experience on the past sprint.&lt;/p&gt;
+
+&lt;p&gt;It is therefore a moment of sharing in which each member of the team is asked to give their feedback in an open and transparent way! What are the successes? What are the failures? What could be done better in the next sprint?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By doing a retrospective we provoke a feedback&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The goal for the team is to improve their organization in order to be more efficient, the retrospective is a key element of the principle of continuous improvement and enables the team to become self-learning.&lt;/p&gt;
+
+&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="5 minutes on" /><summary type="html">\fid.bak\</summary></entry><entry><title type="html">The worst meeting in my entire life</title><link href="https://blog.roti.express//en/origins-en" rel="alternate" type="text/html" title="The worst meeting in my entire life" /><published>2018-08-03T18:00:00+02:00</published><updated>2018-08-03T18:00:00+02:00</updated><id>https://blog.roti.express//en/origins-en</id><content type="html" xml:base="https://blog.roti.express//en/origins-en">&lt;h2 id=&quot;the-day-it-all-started-&quot;&gt;The day it all started …&lt;/h2&gt;
 
 &lt;p&gt;Summer 2017, I am consultant in a mission for a client who is starting a digital transformation, big project over 2 years, critical and strategic for the company.&lt;/p&gt;
 
