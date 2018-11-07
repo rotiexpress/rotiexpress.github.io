@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-11-05T14:14:14+01:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide: getting massive feedback for events</title><link href="https://blog.roti.express//en/events-en" rel="alternate" type="text/html" title="Guide:  getting massive feedback for events" /><published>2018-10-16T18:00:00+02:00</published><updated>2018-10-16T18:00:00+02:00</updated><id>https://blog.roti.express//en/events-en</id><content type="html" xml:base="https://blog.roti.express//en/events-en">&lt;p&gt;You are an organizer of Conferences, REX, TEDx or other events of this type? You probably know better than us that getting feedback is a real puzzle that can be very time consuming and very expensive.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-11-07T23:25:39+01:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Guide: getting massive feedback for events</title><link href="https://blog.roti.express//en/events-en" rel="alternate" type="text/html" title="Guide:  getting massive feedback for events" /><published>2018-10-16T18:00:00+02:00</published><updated>2018-10-16T18:00:00+02:00</updated><id>https://blog.roti.express//en/events-en</id><content type="html" xml:base="https://blog.roti.express//en/events-en">&lt;p&gt;You are an organizer of Conferences, REX, TEDx or other events of this type? You probably know better than us that getting feedback is a real puzzle that can be very time consuming and very expensive.&lt;/p&gt;
 
 &lt;h3 id=&quot;automating-the-taking-of-feedback&quot;&gt;Automating the taking of Feedback&lt;/h3&gt;
 
@@ -346,7 +346,52 @@ The ROTI survey is composed of  &lt;strong&gt;2 questions&lt;/strong&gt;, always
 
 &lt;p&gt;The goal for the team is to improve their organization in order to be more efficient, the retrospective is a key element of the principle of continuous improvement and enables the team to become self-learning.&lt;/p&gt;
 
-&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="5 minutes on" /><summary type="html">\fid.bak\</summary></entry><entry><title type="html">The worst meeting in my entire life</title><link href="https://blog.roti.express//en/origins-en" rel="alternate" type="text/html" title="The worst meeting in my entire life" /><published>2018-08-03T18:00:00+02:00</published><updated>2018-08-03T18:00:00+02:00</updated><id>https://blog.roti.express//en/origins-en</id><content type="html" xml:base="https://blog.roti.express//en/origins-en">&lt;h2 id=&quot;the-day-it-all-started-&quot;&gt;The day it all started …&lt;/h2&gt;
+&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="5 minutes on" /><summary type="html">\fid.bak\</summary></entry><entry><title type="html">A ROTI in digital version</title><link href="https://blog.roti.express//en/digital-roti-en" rel="alternate" type="text/html" title="A ROTI in digital version" /><published>2018-08-04T18:00:00+02:00</published><updated>2018-08-04T18:00:00+02:00</updated><id>https://blog.roti.express//en/digital-roti-en</id><content type="html" xml:base="https://blog.roti.express//en/digital-roti-en">&lt;h2 id=&quot;digitalising-the-practice&quot;&gt;Digitalising the practice&lt;/h2&gt;
+
+&lt;p&gt;September 2017, we embark on the coding of our application, the objective is announced: we will make ROTI in digital version! &lt;/p&gt;
+
+&lt;p&gt;We start by asking ourselves about the specifications: what is a ROTI ritual?&lt;/p&gt;
+
+&lt;h3 id=&quot;anatomy-of-the-roti-ritual-&quot;&gt;Anatomy of the ROTI ritual? ?&lt;/h3&gt;
+
+&lt;p&gt;R.O.T.I. for “Return on Time Invested” is an agile, quick and easy method to evaluate time spent in meetings, workshops or conferences and collect / give feedback.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The announced goal is to make these events more productive and satisfying for each participant.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;After the intervention, each participant gives a mark on a scale from 1 to 5 by a show of hands.
+&lt;img src=&quot;/assets/images/hands_en.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And, in 30 seconds, they explain their rating to the host with a useful and benevolent comment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/comments_en.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;lets-digitalize&quot;&gt;Let’s digitalize&lt;/h3&gt;
+
+&lt;p&gt;Let’s start with the survey by a show of hands! In order to allow the participants to evaluate the time they have just spent in a meeting, we will propose them to give a number of stars:
+&lt;img src=&quot;/assets/images/scoring_en.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And for the under 30 seconds comment? It’s quite simple too, we start on a text field that is voluntarily limited to 1000 characters because we do not want the participants to tell us a long story, just to give us hints at improvement to do better next time!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/commentaire1_en.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;lets-add-value&quot;&gt;Let’s add value&lt;/h3&gt;
+
+&lt;p&gt;The ROTI ritual is supposed to last 5 minutes, but in reality it is difficult for the host to take the evaluations and write down the comments, but for us it’s a piece of cake!
+&lt;img src=&quot;/assets/images/results_en.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And then we can also group all this on a beautiful page that summarizes the comments!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/commentaires2_en.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one-idea-leading-to-another&quot;&gt;One idea leading to another…&lt;/h3&gt;
+
+&lt;p&gt;We have reached our goal of a digitized ritual, we do as much or even more than what was expected&lt;/p&gt;
+
+&lt;p&gt;We also realize that when we collect data, it opens the way for us to explore its analytical possibilities. Track the surveys of the different teams, measure progress over time, offer a company level vision! Everything is now possible!&lt;/p&gt;
+
+&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">Digitalising the practice</summary></entry><entry><title type="html">The worst meeting in my entire life</title><link href="https://blog.roti.express//en/origins-en" rel="alternate" type="text/html" title="The worst meeting in my entire life" /><published>2018-08-03T18:00:00+02:00</published><updated>2018-08-03T18:00:00+02:00</updated><id>https://blog.roti.express//en/origins-en</id><content type="html" xml:base="https://blog.roti.express//en/origins-en">&lt;h2 id=&quot;the-day-it-all-started-&quot;&gt;The day it all started …&lt;/h2&gt;
 
 &lt;p&gt;Summer 2017, I am consultant in a mission for a client who is starting a digital transformation, big project over 2 years, critical and strategic for the company.&lt;/p&gt;
 
