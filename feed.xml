@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" hreflang="fr" /><updated>2018-12-04T12:16:44+01:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">12 symptômes de la Réunionite</title><link href="https://blog.roti.express/12_symptomes_reunionite" rel="alternate" type="text/html" title="12 symptômes de la Réunionite" /><published>2018-11-18T09:00:00+01:00</published><updated>2018-11-18T09:00:00+01:00</updated><id>https://blog.roti.express/12_symptomes_reunionite</id><content type="html" xml:base="https://blog.roti.express/12_symptomes_reunionite">&lt;p&gt;La réunionite en entreprise peut se manifester sous bien des formes.. On a réuni dans cet article les 12 symptômes les plus fréquents, si vous en reconnaissez un ou plusieurs il se pourrait bien que vous soyez atteint !
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" hreflang="fr" /><updated>2018-12-11T23:24:38+01:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Le Carrousel de Commentaires</title><link href="https://blog.roti.express/carousel" rel="alternate" type="text/html" title="Le Carrousel de Commentaires" /><published>2018-11-18T09:00:00+01:00</published><updated>2018-11-18T09:00:00+01:00</updated><id>https://blog.roti.express/carousel</id><content type="html" xml:base="https://blog.roti.express/carousel">&lt;p&gt;Ce n’est pas encore Noël et pourtant nous vous offrons déjà un cadeau.&lt;/p&gt;
+
+&lt;p&gt;Quelque chose de simple, que l’on nous a souvent demandé, une évidence sous notre nez !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Le carrousel de commentaires favoris à incruster sur votre site.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Qu’est-ce que ce cadeau ? me direz-vous. Je vous entends déjà :&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Je n’ai pas besoin de chevaux de bois pour mon site”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vous l’avez compris, aucun rapport 😂&lt;/p&gt;
+
+&lt;p&gt;Là nous parlons des commentaires que vous avez recueillis au cours de vos &lt;a href=&quot;https://blog.roti.express/digital-roti&quot;&gt;sondages ROTI&lt;/a&gt; et que vous souhaitez mettre en valeur sur votre site.&lt;/p&gt;
+
+&lt;p&gt;Nous avons donc imaginé un Carrousel dans lequels les “morceaux choisis” défilent harmonieusement sur votre site.&lt;/p&gt;
+
+&lt;p&gt;Un ami le faisait déjà à coup de captures d’écrans et on nous en a encore parlé au HappyTech Summit ; Il était grand temps d’industrialiser le processus.&lt;/p&gt;
+
+&lt;p&gt;C’est chose faite.&lt;/p&gt;
+
+&lt;p&gt;Les administrateurs d’équipe peuvent cliquer sur l’icone ❤️ juste en dessous de leurs commentaires favoris. Ils sont alors envoyés dans une &lt;a href=&quot;https://roti.express/favorites&quot;&gt;page spéciale&lt;/a&gt; qui vous permet d’y apporter quelques retouches afin de préserver l’anonymat et corriger les éventuelles fautes d’orthographe.&lt;/p&gt;
+
+&lt;p&gt;Il ne reste plus qu’à copier les quatre lignes de code &lt;code class=&quot;highlighter-rouge&quot;&gt;HTML&lt;/code&gt; pour les coller dans votre site. &lt;strong&gt;Et voilà.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://roti.express/carousel/3dwktd4aGFQdcegxr&quot; style=&quot;border:0;width:100%;height:200px;&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;De plus, le carrousel s’adapte automatiquement à l’affichage sur mobile si votre site le gère.&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;me contacter&lt;/a&gt; si vous n’arrivez pas à intégrer le carrousel dans votre site, je me ferais un plaisir de vous aider.&lt;/p&gt;
+
+&lt;p&gt;Je vous souhaite de joyeuses fêtes de Noël 🎄, de succulents Rotis 🍖 et de nombreux tours de carrousel 🎠&lt;/p&gt;</content><author><name>Guillaume Darbonne</name></author><category term="Features" /><summary type="html">Ce n’est pas encore Noël et pourtant nous vous offrons déjà un cadeau.</summary></entry><entry><title type="html">12 symptômes de la Réunionite</title><link href="https://blog.roti.express/12_symptomes_reunionite" rel="alternate" type="text/html" title="12 symptômes de la Réunionite" /><published>2018-11-18T09:00:00+01:00</published><updated>2018-11-18T09:00:00+01:00</updated><id>https://blog.roti.express/12_symptomes_reunionite</id><content type="html" xml:base="https://blog.roti.express/12_symptomes_reunionite">&lt;p&gt;La réunionite en entreprise peut se manifester sous bien des formes.. On a réuni dans cet article les 12 symptômes les plus fréquents, si vous en reconnaissez un ou plusieurs il se pourrait bien que vous soyez atteint !
 &lt;img src=&quot;/assets/images/reunionite2.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;25%&quot; /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;1-le-nombre-de-réunions-augmente&quot;&gt;1/ Le nombre de réunions augmente&lt;/h3&gt;
 &lt;p&gt;Au fil du temps le nombre de réunion par jour et par semaine va crescendo, au début c’était grisant mais depuis quelques temps ça devient incontrôlable, je n’arrive plus à gérer…&lt;/p&gt;
@@ -508,18 +540,4 @@ Après avoir passé en revu ce que propose Google et les divers outils de créat
 
 &lt;p&gt;Prototype, MVP, architecture cloud, tests grandeurs nature, scalabilité, accélération à la Station F !… Mais tout ça c’est une autre histoire, rendez-vous au prochain article !&lt;/p&gt;
 
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">Le jour ou tout a commencé…</summary></entry><entry><title type="html">Ouverture du Blog Agile de Roti.express</title><link href="https://blog.roti.express/welcome" rel="alternate" type="text/html" title="Ouverture du Blog Agile de Roti.express" /><published>2018-07-27T18:00:00+02:00</published><updated>2018-07-27T18:00:00+02:00</updated><id>https://blog.roti.express/welcome</id><content type="html" xml:base="https://blog.roti.express/welcome">&lt;p&gt;Bonjour, et bienvenue sur notre blog.&lt;/p&gt;
-
-&lt;p&gt;Ça fait plaisir de vous savoir ici ! En septembre 2017, soit il y a un an, nous dessinions les premiers écrans et écrivions les premières lignes de codes de notre application Roti.express.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Depuis l’année dernière de l’eau à couler sous les ponts et nous avons décidé de lancer ce blog pour raconter nos aventures ! Revenez-vite, vous ne serez pas déçu.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;En attendant nous vous invitons à regarder &lt;a href=&quot;https://www.youtube.com/watch?v=pwuilJ4igWs&quot;&gt;une petite vidéo de 59 secondes&lt;/a&gt; qui explique ce qu’est Roti.express.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pwuilJ4igWs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Et si vous savez déjà ce que c’est, &lt;a href=&quot;https://roti.express/start&quot;&gt;venez faire votre premier sondage&lt;/a&gt; pour vos événements.&lt;/p&gt;
-
-&lt;p&gt;A bientôt.&lt;/p&gt;</content><author><name>Guillaume Darbonne</name></author><category term="Hello World !" /><summary type="html">Bonjour, et bienvenue sur notre blog.</summary></entry></feed>
+&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">Le jour ou tout a commencé…</summary></entry></feed>
