@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" hreflang="fr" /><updated>2018-12-12T12:19:11+01:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Le Carrousel de Commentaires</title><link href="https://blog.roti.express/carousel" rel="alternate" type="text/html" title="Le Carrousel de Commentaires" /><published>2018-12-12T09:00:00+01:00</published><updated>2018-12-12T09:00:00+01:00</updated><id>https://blog.roti.express/carousel</id><content type="html" xml:base="https://blog.roti.express/carousel">&lt;p&gt;Ce n’est pas encore Noël et pourtant nous vous offrons déjà un cadeau.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" hreflang="fr" /><updated>2018-12-12T16:38:38+01:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Le Carrousel de Commentaires</title><link href="https://blog.roti.express/carousel" rel="alternate" type="text/html" title="Le Carrousel de Commentaires" /><published>2018-12-12T09:00:00+01:00</published><updated>2018-12-12T09:00:00+01:00</updated><id>https://blog.roti.express/carousel</id><content type="html" xml:base="https://blog.roti.express/carousel">&lt;p&gt;Ce n’est pas encore Noël et pourtant nous vous offrons déjà un cadeau.&lt;/p&gt;
 
 &lt;p&gt;Quelque chose de simple, que l’on nous a souvent demandé, une évidence sous notre nez !&lt;/p&gt;
 
@@ -23,9 +23,10 @@
 
 &lt;p&gt;Il ne reste plus qu’à copier les quatre lignes de code &lt;code class=&quot;highlighter-rouge&quot;&gt;HTML&lt;/code&gt; pour les coller dans votre site. &lt;strong&gt;Et voilà.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;center&gt;
-  &lt;iframe src=&quot;https://roti.express/carousel/3dwktd4aGFQdcegxr&quot; width=&quot;380&quot; height=&quot;240&quot;&gt;&lt;/iframe&gt;
-&lt;/center&gt;
+&lt;iframe src=&quot;https://roti.express/carousel/3dwktd4aGFQdcegxr&quot; style=&quot;border:0;width:100%;height:260px;&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;De plus, le carrousel s’adapte automatiquement à l’affichage sur mobile si votre site le gère.&lt;/p&gt;
 
 &lt;p&gt;Vous pouvez &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;me contacter&lt;/a&gt; si vous n’arrivez pas à intégrer le carrousel dans votre site, je me ferais un plaisir de vous aider.&lt;/p&gt;
 
