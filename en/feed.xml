@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-12-18T15:20:06+01:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">12 symptoms of Meeting-Mania</title><link href="https://blog.roti.express//en/12_symptoms_meeting-mania" rel="alternate" type="text/html" title="12 symptoms of Meeting-Mania" /><published>2018-11-18T09:00:00+01:00</published><updated>2018-11-18T09:00:00+01:00</updated><id>https://blog.roti.express//en/12_symptoms_meeting-mania</id><content type="html" xml:base="https://blog.roti.express//en/12_symptoms_meeting-mania">&lt;p&gt;Meeting-Mania within the company may occur in many forms. In this article you will find the 12 most common symptoms, if you recognize one or more of them you may as well be affected!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express//en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express//en/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-12-22T21:38:53+01:00</updated><id>https://blog.roti.express//en/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">The Carousel of comments</title><link href="https://blog.roti.express//en/carousel-en" rel="alternate" type="text/html" title="The Carousel of comments" /><published>2018-12-12T09:00:00+01:00</published><updated>2018-12-12T09:00:00+01:00</updated><id>https://blog.roti.express//en/carousel-en</id><content type="html" xml:base="https://blog.roti.express//en/carousel-en">&lt;p&gt;It is not Christmas yet and we are already offering you a present.&lt;/p&gt;
+
+&lt;p&gt;Something simple, which we have often been asked, something obvious right in front of us.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The carousel of favorite comments to embed in your site..&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What is this gift? I can hear you already telling me: &lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“I do not need wooden horses for my site”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You got it I’m sure, there’s no connection! 😂&lt;/p&gt;
+
+&lt;p&gt;We are talking here about the comments you have collected during your &lt;a href=&quot;https://blog.roti.express/digital-roti&quot;&gt;ROTI surveys&lt;/a&gt; and that you want to highlight on your site.&lt;/p&gt;
+
+&lt;p&gt;So we imagined a carousel in which the “selected pieces” scroll harmoniously on your site. &lt;/p&gt;
+
+&lt;p&gt;A friend was already doing it with snapshots and we talked about it again at the HappyTech Summit; It was high time we industrialized the process.&lt;/p&gt;
+
+&lt;p&gt;It’s done.&lt;/p&gt;
+
+&lt;p&gt;Team administrators can click on the icon ❤️ just below their favorite comments. They are then sent to a &lt;a href=&quot;https://roti.express/favorites&quot;&gt;special page&lt;/a&gt; that allows you to make some changes to preserve anonymity and correct any spelling errors.&lt;/p&gt;
+
+&lt;p&gt;All you have to do is copy the four lines of HTML code and paste them into your site.&lt;/p&gt;
+
+&lt;p&gt;Il ne reste plus qu’à copier les quatre lignes de code &lt;code class=&quot;highlighter-rouge&quot;&gt;HTML&lt;/code&gt; pour les coller dans votre site.
+&lt;strong&gt;There you go.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://roti.express/carousel/7nGE2vzmB787gXwzd?lang=en&quot; style=&quot;border:0;width:100%;height:250px;&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;In addition, the carousel automatically adapts to cell phone view if your site manages it.&lt;/p&gt;
+
+&lt;p&gt;You can &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;contact me&lt;/a&gt; if you have troube integrating the carousel in your site, I’d be happy to help you.&lt;/p&gt;
+
+&lt;p&gt; I wish you happy Christmas holidays 🎄, succulent Rotis 🍖  and many carousel rides 🎠.&lt;/p&gt;</content><author><name>Guillaume Darbonne</name></author><category term="Features" /><summary type="html">It is not Christmas yet and we are already offering you a present.</summary></entry><entry><title type="html">12 symptoms of Meeting-Mania</title><link href="https://blog.roti.express//en/12_symptoms_meeting-mania" rel="alternate" type="text/html" title="12 symptoms of Meeting-Mania" /><published>2018-11-18T09:00:00+01:00</published><updated>2018-11-18T09:00:00+01:00</updated><id>https://blog.roti.express//en/12_symptoms_meeting-mania</id><content type="html" xml:base="https://blog.roti.express//en/12_symptoms_meeting-mania">&lt;p&gt;Meeting-Mania within the company may occur in many forms. In this article you will find the 12 most common symptoms, if you recognize one or more of them you may as well be affected!
 &lt;img src=&quot;/assets/images/meetingmania.png&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;25%&quot; /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;1-the-number-of-meetings-increases&quot;&gt;1/ The number of meetings increases&lt;/h3&gt;
 &lt;p&gt;The number of meetings per day and week is increasing over time, at first it was exhilarating but for some time it has been out of control, I cannot cope anymore …&lt;/p&gt;
@@ -515,18 +550,4 @@ After reviewing what Google offers and various survey tools I ended up realizing
 
 &lt;p&gt;Prototype, MVP, cloud architecture, field tests, scalability, acceleration at Station F! … But all this is another story, see you in the next article!&lt;/p&gt;
 
-&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">The day it all started …</summary></entry><entry><title type="html">Roti.express Blog opening</title><link href="https://blog.roti.express//en/welcome" rel="alternate" type="text/html" title="Roti.express Blog opening" /><published>2018-07-27T18:00:00+02:00</published><updated>2018-07-27T18:00:00+02:00</updated><id>https://blog.roti.express//en/welcome</id><content type="html" xml:base="https://blog.roti.express//en/welcome">&lt;p&gt;Hello and welcome to our blog.&lt;/p&gt;
-
-&lt;p&gt;It’s nice to see you here! In September 2017, a year ago, we designed the first screens and wrote the first lines of code of our Roti.express application.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Since last year many things have happened and we decided to launch this blog to tell you about our adventures! Come back soon, you will not be disappointed.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In the meantime we invite you to watch &lt;a href=&quot;https://www.youtube.com/watch?v=K_E4HGfBCpQ&quot;&gt;a short 59 seconds video&lt;/a&gt; that explains what Roti.express is about.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K_E4HGfBCpQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-
-&lt;p&gt;And if you already know what it is, &lt;a href=&quot;https://roti.express/start&quot;&gt;just start your first survey&lt;/a&gt; for your events.&lt;/p&gt;
-
-&lt;p&gt;See you soon.&lt;/p&gt;</content><author><name>Guillaume Darbonne</name></author><category term="Hello World !" /><summary type="html">Hello and welcome to our blog.</summary></entry></feed>
+&lt;p&gt;(to be continued !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">The day it all started …</summary></entry></feed>
