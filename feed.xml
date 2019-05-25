@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" hreflang="fr" /><updated>2019-02-12T09:52:40+01:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Perfection Game</title><link href="https://blog.roti.express/perfection-game" rel="alternate" type="text/html" title="Perfection Game" /><published>2019-02-01T09:00:00+01:00</published><updated>2019-02-01T09:00:00+01:00</updated><id>https://blog.roti.express/perfection-game</id><content type="html" xml:base="https://blog.roti.express/perfection-game">&lt;p&gt;“Perfection Game” ou l’art de “Faire Mieux Demain”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" hreflang="fr" /><updated>2019-05-25T07:34:13+02:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Roti mail-bot</title><link href="https://blog.roti.express/roti-mailbot-fr" rel="alternate" type="text/html" title="Roti mail-bot" /><published>2019-05-01T10:00:00+02:00</published><updated>2019-05-01T10:00:00+02:00</updated><id>https://blog.roti.express/roti-mailbot-fr</id><content type="html" xml:base="https://blog.roti.express/roti-mailbot-fr">&lt;p&gt;Un mail-bot pour vous simplifier la vie !&lt;/p&gt;
+
+&lt;h3 id=&quot;nous-aimons-ce-qui-est-simple-efficace-et-automatisé&quot;&gt;Nous aimons ce qui est simple, efficace et automatisé&lt;/h3&gt;
+
+&lt;p&gt;Évaluer ses réunions c’est bien, mais cela peut vite devenir fastidieux surtout quand il y en a beaucoup.&lt;/p&gt;
+
+&lt;p&gt;Penser à créer le sondage en amont, à l’envoyer une fois la réunion terminée, à relancer les participants qui n’ont pas répondu… tout cela peut vite prendre du temps et de l’énergie.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pas d’inquiétude, nous avons pensé à vous en fabriquant un mail-bot !&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;un-mail-bot-&quot;&gt;Un mail-bot ?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Un mail-bot c’est un peu comme un chat-bot, sauf qu’il se déclenche à la réception d’un e-mail !&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Notre robot possède sa propre adresse &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;survey@roti.express&lt;/a&gt; et c’est via cette adresse mail qu’on interagit avec lui.&lt;/p&gt;
+
+&lt;p&gt;L’idée n’est pas de dialoguer avec lui par e-mail mais de l’inviter dans votre réunion depuis votre messagerie, comme s’il s’agissait d’une personne réelle en indiquant son adresse &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;survey@roti.express&lt;/a&gt; dans l’invitation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/pepper.jpg&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;le-robot-va-donc-faire-le-travail-à-votre-place&quot;&gt;Le robot va donc faire le travail à votre place&lt;/h3&gt;
+
+&lt;p&gt;A partir du moment où il est invité à une réunion le robot se réveille, et il va :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Créer le sondage Roti sur la plateforme à la place de l'organisateur.&lt;/li&gt;
+&lt;li&gt;Remplir le titre, la date et l'heure de votre réunion.&lt;/li&gt;
+&lt;li&gt;Envoyer la demande de feedback a chaque participant dès la fin de la réunion.&lt;/li&gt;
+&lt;li&gt;Relancer les participants jusqu'à 3 fois pour collecter un maximum de réponses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;et-pour-aller-plus-loin&quot;&gt;Et pour aller plus loin…&lt;/h3&gt;
+
+&lt;p&gt;L’utilisation du robot est incluse dans la licence standard.&lt;/p&gt;
+
+&lt;p&gt;Si vous souhaitez utiliser le robot à l’échelle de votre entreprise sans avoir à acheter une licence pour chaque animateur de réunion nous pouvons vous créer une adresse personnalisée &lt;strong&gt;&lt;font color=&quot;blue&quot;&gt;mon-entreprise&lt;/font&gt;@&lt;font color=&quot;red&quot;&gt;roti.express&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour cela, contactez-nous directement sur &lt;a href=&quot;mailto:survey@roti.express&quot;&gt;survey@roti.express&lt;/a&gt; nous serons ravis d’échanger avec vous et de vous donner les détails.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/robot2.jpg&quot; target=&quot;blank&quot; alt=&quot;drawing&quot; width=&quot;20%&quot; /&gt;
+A bientôt !&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Features" /><summary type="html">Un mail-bot pour vous simplifier la vie !</summary></entry><entry><title type="html">Perfection Game</title><link href="https://blog.roti.express/perfection-game" rel="alternate" type="text/html" title="Perfection Game" /><published>2019-02-01T09:00:00+01:00</published><updated>2019-02-01T09:00:00+01:00</updated><id>https://blog.roti.express/perfection-game</id><content type="html" xml:base="https://blog.roti.express/perfection-game">&lt;p&gt;“Perfection Game” ou l’art de “Faire Mieux Demain”&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Le feedback, c’est bien. L’amélioration continue, c’est mieux.&lt;/p&gt;
@@ -503,48 +545,4 @@ La bonne nouvelle c’est que la plupart des gens souhaitent s’améliorer et p
 
 &lt;p&gt;L’objectif pour l’équipe est d’améliorer son organisation afin d’être plus efficace, la rétrospective est donc un élément clef du principe d’amélioration continue et permet à l’équipe de devenir auto-apprenante.&lt;/p&gt;
 
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="5 minutes on" /><summary type="html">\fid.bak\</summary></entry><entry><title type="html">Un ROTI en version digitale</title><link href="https://blog.roti.express/digital-roti" rel="alternate" type="text/html" title="Un ROTI en version digitale" /><published>2018-08-04T18:00:00+02:00</published><updated>2018-08-04T18:00:00+02:00</updated><id>https://blog.roti.express/digital-roti</id><content type="html" xml:base="https://blog.roti.express/digital-roti">&lt;h2 id=&quot;digitaliser-la-pratique&quot;&gt;Digitaliser la pratique&lt;/h2&gt;
-
-&lt;p&gt;Septembre 2017, nous nous lançons dans le codage de notre application, l’objectif est annoncé : on va faire du ROTI en version digitale !&lt;/p&gt;
-
-&lt;p&gt;Nous commençons par nous interroger sur le cahier des charges : ça consiste en quoi un rituel ROTI ?&lt;/p&gt;
-
-&lt;h3 id=&quot;anatomie-du-rituel-roti-&quot;&gt;Anatomie du rituel ROTI ?&lt;/h3&gt;
-
-&lt;p&gt;R.O.T.I. pour « Return on Time Invested » (retour sur le temps investi) est une méthode agile, rapide et facile à mettre en oeuvre pour évaluer le temps passé en réunions, ateliers ou conférences et recueillir/donner du feedback.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;L’objectif annoncé est de rendre ces évènements plus productifs et satisfaisants pour chaque participant.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Après l’intervention, chaque participant attribue une note sur une échelle de 1 à 5 à main levé
-&lt;img src=&quot;/assets/images/hands.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Et, en 30 secondes, explique sa notation par un commentaire utile et bienveillant à l’attention de l’animateur.
-&lt;img src=&quot;/assets/images/feedback1.png&quot; alt=&quot;drawing&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;digitalisons&quot;&gt;Digitalisons&lt;/h3&gt;
-
-&lt;p&gt;Commençons par le sondage à main levé ! Afin de permettre aux participants d’évaluer le temps qu’ils viennent de passer en réunion nous allons leur proposer de donner un score avec des étoiles :
-&lt;img src=&quot;/assets/images/scoring.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Et pour le commentaire de moins de 30 secondes ? C’est assez simple aussi, on part sur un champ texte qu’on limite volontairement à 1000 caractères car on ne souhaite pas que le participant nous raconte sa vie, juste des pistes d’amélioration pour mieux faire la prochaine fois!
-&lt;img src=&quot;/assets/images/commentaire1.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ajoutons-de-la-valeur&quot;&gt;Ajoutons de la valeur&lt;/h3&gt;
-
-&lt;p&gt;Le rituel ROTI est sensé durer 5 minutes, et en pratique il est compliqué pour l’animateur de relever les évaluations et de noter les commentaires, alors pour nous c’est simple comme bonjour !
-&lt;img src=&quot;/assets/images/results.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Et puis on peut aussi regrouper tout ça sur une belle page qui fait la synthèse des commentaires laissés !
-&lt;img src=&quot;/assets/images/commentaires2.png&quot; alt=&quot;drawing&quot; width=&quot;85%&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;une-idée-en-entrainant-une-autre&quot;&gt;Une idée en entrainant une autre…&lt;/h3&gt;
-
-&lt;p&gt;Nous sommes arrivés à notre objectif le rituel est digitalisé, on en fait autant voir même plus que ce qui se fait en présentiel !&lt;/p&gt;
-
-&lt;p&gt;On réalise aussi à ce moment là que nous collectons de la donnée, ce qui nous ouvre la voie sur l’exploration des possibilités analytiques de ces données.. Traquer les sondages des différentes équipes, mesurer la progression dans le temps, offrir une vision globale à l’échelle de l’entreprise !.. Tout est désormais possible !&lt;/p&gt;
-
-&lt;p&gt;Essayez sur notre site web &lt;a href=&quot;https://roti.express&quot;&gt;Roti.express&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="Our journey" /><summary type="html">Digitaliser la pratique</summary></entry></feed>
+&lt;p&gt;(à suivre !)&lt;/p&gt;</content><author><name>Antoine Durand</name></author><category term="5 minutes on" /><summary type="html">\fid.bak\</summary></entry></feed>
