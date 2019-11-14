@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" hreflang="fr" /><updated>2019-11-13T20:18:38+01:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Nous sommes de retour en France</title><link href="https://blog.roti.express/retour-france" rel="alternate" type="text/html" title="Nous sommes de retour en France" /><published>2019-11-11T09:00:00+01:00</published><updated>2019-11-11T09:00:00+01:00</updated><id>https://blog.roti.express/retour-france</id><content type="html" xml:base="https://blog.roti.express/retour-france">&lt;h3 id=&quot;rotiexpress--naissance-et-adolescence-chez-aws&quot;&gt;Roti.express : Naissance et adolescence chez AWS&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://blog.roti.express/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.roti.express/" rel="alternate" type="text/html" hreflang="fr" /><updated>2019-11-14T09:44:29+01:00</updated><id>https://blog.roti.express/</id><title type="html">Roti.express Blog</title><subtitle>Le Blog Agile de Roti.express</subtitle><entry><title type="html">Nous sommes de retour en France</title><link href="https://blog.roti.express/retour-france" rel="alternate" type="text/html" title="Nous sommes de retour en France" /><published>2019-11-11T09:00:00+01:00</published><updated>2019-11-11T09:00:00+01:00</updated><id>https://blog.roti.express/retour-france</id><content type="html" xml:base="https://blog.roti.express/retour-france">&lt;h3 id=&quot;rotiexpress--naissance-et-adolescence-chez-aws&quot;&gt;Roti.express : Naissance et adolescence chez AWS&lt;/h3&gt;
 &lt;p&gt;AWS (Amazon Web Services) c’était pratique pour démarrer ! On connaissait déjà, ils proposent toute une gamme de services intéressants dont on s’est dit qu’on pourrait avoir besoin un jour (ou pas) et par ailleurs ils sont très agressifs sur les prix.&lt;/p&gt;
 
 &lt;p&gt;Nous avions besoin d’un Cloud-provider qui “fait le job” et nous qui permette de nous concentrer sur notre produit et uniquement sur notre produit.&lt;/p&gt;
 
-&lt;p&gt;Nous sommes donc resté chez AWS un bout de temps, depuis la création du MVP jusqu’à cette date clé du 11 novembre 2019 à laquelle nous avons déménagé.&lt;/p&gt;
+&lt;p&gt;Nous sommes donc restés chez AWS un bout de temps, depuis la création du MVP (Minimum Viable Product) jusqu’à cette date clé du 11 novembre 2019 à laquelle nous avons déménagé.&lt;/p&gt;
 
 &lt;p&gt;Nous souhaitons remercier Amazon et Mr Jeff Bezos pour leurs bons et loyaux services pendant ces 18 mois.&lt;/p&gt;
 
@@ -12,7 +12,7 @@
 &lt;h3 id=&quot;pourquoi-partir-&quot;&gt;Pourquoi partir ?&lt;/h3&gt;
 &lt;p&gt;Nos serveurs ont toujours été sécurisés et nos bases de données encryptées, nous n’avons jamais subi de piratage malgré plusieurs tentatives.&lt;/p&gt;
 
-&lt;p&gt;Cependant, comme tout application hébergée chez un Cloud-provider Américain nous étions soumis au &lt;a href=&quot;https://fr.wikipedia.org/wiki/CLOUD_Act&quot; target=&quot;_blank&quot;&gt;Cloud Act&lt;/a&gt; et cela est vite devenu un problème.&lt;/p&gt;
+&lt;p&gt;Cependant, comme toute application hébergée chez un Cloud-provider Américain nous étions soumis au &lt;a href=&quot;https://fr.wikipedia.org/wiki/CLOUD_Act&quot; target=&quot;_blank&quot;&gt;Cloud Act&lt;/a&gt; et cela est vite devenu un problème.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;En résumé le Cloud Act c’est une loi fédérale qui permet aux forces de l’ordre Américaines de contraindre les fournisseurs de services américains à fournir les données demandées stockées sur des serveurs, qu’ils soient situés aux États-Unis ou dans des pays étrangers.&lt;/p&gt;
@@ -30,9 +30,10 @@
 &lt;p&gt;Notre choix s’est porté sur &lt;a href=&quot;https://clever-cloud.com&quot; target=&quot;_blank&quot;&gt;Clever-Cloud&lt;/a&gt; qui offre un niveau de service qui surpasse notre ancien hébergeur :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Les possibilités de scaling sont plus finement réglables.&lt;/li&gt;
-&lt;li&gt;Les base de données sont fortement cryptées.&lt;/li&gt;
+&lt;li&gt;Les bases de données sont fortement cryptées.&lt;/li&gt;
 &lt;li&gt;Les pipelines de déploiement sont directement reliés à l'application.&lt;/li&gt;
-&lt;li&gt;Le support technique est au top ! on parle a des humains qui nous considèrent malgré notre taille modeste.&lt;/li&gt;
+&lt;li&gt;Le support technique est au top ! on parle à des humains qui nous considèrent malgré notre taille modeste.&lt;/li&gt;
+
 &lt;li&gt;Les prix sont grosso-modo les mêmes, on a même eu une bonne surprise&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -51,10 +52,10 @@
 &lt;li&gt;Le jour J : re-copie de la base et migration DNS&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Une pensée particulière pour notre CTO &lt;a href=&quot;https://www.linkedin.com/in/guillaume-darbonne-85783a6/&quot; target=&quot;_blank&quot;&gt;Guillaume&lt;/a&gt; qui a mené cette opération d’une main experte et nous à fait un sans-faute !&lt;/p&gt;
+&lt;p&gt;Une pensée particulière pour notre CTO &lt;a href=&quot;https://www.linkedin.com/in/guillaume-darbonne-85783a6/&quot; target=&quot;_blank&quot;&gt;Guillaume&lt;/a&gt; qui a mené cette opération d’une main experte et nous a fait un sans-faute !&lt;/p&gt;
 
 &lt;h3 id=&quot;et-après-&quot;&gt;Et après ?&lt;/h3&gt;
-&lt;p&gt;Les tests techniques montrent que les performances sont meilleures, on est tout simplement ravis !&lt;/p&gt;
+&lt;p&gt;Les tests techniques montrent que les performances sont meilleures, nous sommes tout simplement ravis !&lt;/p&gt;
 
 &lt;p&gt;Nous sommes désormais hébergés en France, et fiers de l’être. Nous espérons que notre action sera remarquée et que d’autres applications Françaises ou Européennes suivront le même chemin que nous.&lt;/p&gt;
 
